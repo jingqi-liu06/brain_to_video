@@ -1,0 +1,1400 @@
+A Natural Scene which is more specifically Buildings, no human, no face visible, three objects, many colors, high motion
+A Natural Scene which is more specifically Buildings, no human, no face visible, three objects, with dominant color gray, high motion
+A Natural Scene which is more specifically Buildings, no human, no face visible, three objects, many colors, high motion
+A Natural Scene which is more specifically Buildings, no human, no face visible, three objects, many colors, high motion
+A Natural Scene which is more specifically Buildings, no human, no face visible, three objects, many colors, high motion
+A Natural Scene which is more specifically Beach, human present, no face visible, single object, many colors, low motion
+A Natural Scene which is more specifically Beach, no human, no face visible, single object, many colors, low motion
+A Natural Scene which is more specifically Beach, no human, no face visible, single object, many colors, low motion
+A Natural Scene which is more specifically Beach, no human, no face visible, single object, many colors, low motion
+A Natural Scene which is more specifically Beach, no human, no face visible, single object, many colors, high motion
+A Water Animal which is more specifically Jellyfish, no human, no face visible, single object, many colors, low motion
+A Water Animal which is more specifically Jellyfish, no human, no face visible, single object, with dominant color blue, high motion
+A Water Animal which is more specifically Jellyfish, no human, no face visible, single object, with dominant color blue, low motion
+A Water Animal which is more specifically Jellyfish, no human, no face visible, single object, with dominant color yellow, low motion
+A Water Animal which is more specifically Jellyfish, no human, no face visible, single object, with dominant color blue, low motion
+A Land Animal which is more specifically Rabbit, no human, no face visible, single object, many colors, high motion
+A Land Animal which is more specifically Panda, no human, no face visible, single object, with dominant color yellow, low motion
+A Land Animal which is more specifically Rabbit, no human, no face visible, single object, many colors, high motion
+A Land Animal which is more specifically Rabbit, no human, no face visible, single object, many colors, low motion
+A Land Animal which is more specifically Rabbit, no human, no face visible, three objects, many colors, low motion
+A Exercise which is more specifically Skiing, human present, no face visible, single object, with dominant color white, high motion
+A Exercise which is more specifically Skiing, human present, no face visible, single object, with dominant color white, high motion
+A Exercise which is more specifically Skiing, human present, no face visible, single object, with dominant color white, low motion
+A Exercise which is more specifically Skiing, human present, no face visible, single object, with dominant color white, low motion
+A Exercise which is more specifically Skiing, human present, no face visible, two objects, with dominant color white, high motion
+A Plant which is more specifically Tree, no human, no face visible, three objects, with dominant color green, high motion
+A Plant which is more specifically Tree, no human, no face visible, three objects, with dominant color green, high motion
+A Plant which is more specifically Tree, no human, no face visible, three objects, with dominant color green, low motion
+A Plant which is more specifically Tree, no human, no face visible, three objects, with dominant color green, high motion
+A Plant which is more specifically Tree, no human, no face visible, three objects, with dominant color green, high motion
+A Land Animal which is more specifically Panda, no human, no face visible, single object, many colors, high motion
+A Land Animal which is more specifically Panda, no human, no face visible, single object, many colors, high motion
+A Land Animal which is more specifically Panda, no human, no face visible, single object, many colors, low motion
+A Land Animal which is more specifically Panda, no human, no face visible, single object, many colors, high motion
+A Land Animal which is more specifically Panda, no human, no face visible, single object, many colors, high motion
+A Transportation which is more specifically Bike, human present, no face visible, two objects, many colors, high motion
+A Transportation which is more specifically Bike, human present, no face visible, single object, many colors, high motion
+A Transportation which is more specifically Bike, human present, no face visible, single object, many colors, high motion
+A Transportation which is more specifically Bike, human present, no face visible, single object, many colors, high motion
+A Transportation which is more specifically Bike, human present, no face visible, three objects, many colors, high motion
+A Natural Scene which is more specifically Road, no human, no face visible, single object, many colors, high motion
+A Natural Scene which is more specifically Road, no human, no face visible, single object, many colors, high motion
+A Natural Scene which is more specifically Road, no human, no face visible, single object, many colors, high motion
+A Natural Scene which is more specifically Road, no human, no face visible, single object, many colors, low motion
+A Natural Scene which is more specifically Road, no human, no face visible, single object, many colors, low motion
+A Human which is more specifically Face, human present, face visible, single object, many colors, low motion
+A Human which is more specifically Face, human present, face visible, single object, many colors, low motion
+A Human which is more specifically Face, human present, face visible, single object, many colors, low motion
+A Human which is more specifically Face, human present, face visible, single object, many colors, low motion
+A Human which is more specifically Face, human present, face visible, single object, many colors, low motion
+A Food  which is more specifically Banana, human present, no face visible, single object, with dominant color yellow, low motion
+A Food  which is more specifically Banana, no human, no face visible, single object, many colors, low motion
+A Food  which is more specifically Banana, no human, no face visible, single object, with dominant color yellow, low motion
+A Food  which is more specifically Banana, no human, no face visible, single object, with dominant color yellow, high motion
+A Food  which is more specifically Banana, no human, no face visible, single object, with dominant color yellow, low motion
+A Musical which is more specifically Piano, human present, no face visible, single object, many colors, high motion
+A Musical which is more specifically Piano, human present, no face visible, single object, many colors, low motion
+A Musical which is more specifically Piano, human present, no face visible, single object, many colors, low motion
+A Musical which is more specifically Piano, human present, no face visible, single object, many colors, high motion
+A Musical which is more specifically Piano, human present, no face visible, single object, many colors, high motion
+A Land Animal which is more specifically Elephant, no human, no face visible, two objects, many colors, high motion
+A Land Animal which is more specifically Elephant, no human, no face visible, two objects, many colors, high motion
+A Land Animal which is more specifically Elephant, no human, no face visible, single object, many colors, low motion
+A Land Animal which is more specifically Elephant, no human, no face visible, single object, many colors, low motion
+A Land Animal which is more specifically Elephant, no human, no face visible, single object, many colors, high motion
+A Exercise which is more specifically Dancing, human present, face visible, single object, many colors, low motion
+A Exercise which is more specifically Dancing, human present, no face visible, single object, many colors, high motion
+A Exercise which is more specifically Dancing, human present, face visible, single object, many colors, low motion
+A Exercise which is more specifically Dancing, human present, face visible, single object, many colors, low motion
+A Exercise which is more specifically Dancing, human present, face visible, single object, many colors, low motion
+A Natural Scene which is more specifically Mountain, no human, no face visible, three objects, many colors, high motion
+A Natural Scene which is more specifically Mountain, no human, no face visible, three objects, many colors, high motion
+A Natural Scene which is more specifically Mountain, no human, no face visible, three objects, many colors, high motion
+A Natural Scene which is more specifically Mountain, no human, no face visible, three objects, with dominant color green, high motion
+A Natural Scene which is more specifically Mountain, no human, no face visible, three objects, many colors, high motion
+A Transportation which is more specifically Ship, no human, no face visible, single object, many colors, high motion
+A Transportation which is more specifically Ship, no human, no face visible, single object, many colors, high motion
+A Transportation which is more specifically Ship, no human, no face visible, single object, many colors, high motion
+A Transportation which is more specifically Ship, no human, no face visible, single object, many colors, low motion
+A Transportation which is more specifically Ship, no human, no face visible, two objects, many colors, low motion
+A Exercise which is more specifically Boxing, human present, face visible, single object, many colors, high motion
+A Exercise which is more specifically Boxing, human present, face visible, single object, many colors, high motion
+A Exercise which is more specifically Boxing, human present, face visible, single object, many colors, high motion
+A Exercise which is more specifically Boxing, human present, face visible, two objects, many colors, low motion
+A Exercise which is more specifically Boxing, human present, face visible, two objects, many colors, high motion
+A Natural Scene which is more specifically Fireworks, no human, no face visible, three objects, many colors, high motion
+A Natural Scene which is more specifically Fireworks, human present, no face visible, three objects, many colors, low motion
+A Natural Scene which is more specifically Fireworks, no human, no face visible, three objects, many colors, high motion
+A Natural Scene which is more specifically Fireworks, no human, no face visible, three objects, many colors, high motion
+A Natural Scene which is more specifically Fireworks, no human, no face visible, three objects, many colors, high motion
+A Transportation which is more specifically Hot balloon, no human, no face visible, three objects, many colors, high motion
+A Transportation which is more specifically Hot balloon, human present, no face visible, single object, many colors, low motion
+A Transportation which is more specifically Hot balloon, no human, no face visible, single object, many colors, low motion
+A Transportation which is more specifically Hot balloon, no human, no face visible, single object, many colors, low motion
+A Transportation which is more specifically Hot balloon, no human, no face visible, single object, many colors, low motion
+A Musical which is more specifically Drum, human present, no face visible, three objects, many colors, low motion
+A Musical which is more specifically Drum, human present, face visible, three objects, many colors, low motion
+A Musical which is more specifically Drum, human present, no face visible, three objects, many colors, high motion
+A Musical which is more specifically Drum, human present, no face visible, three objects, many colors, low motion
+A Musical which is more specifically Drum, human present, face visible, three objects, many colors, low motion
+A Musical which is more specifically Guitar, human present, no face visible, single object, many colors, high motion
+A Musical which is more specifically Guitar, human present, face visible, single object, many colors, high motion
+A Musical which is more specifically Guitar, human present, face visible, single object, many colors, low motion
+A Musical which is more specifically Guitar, human present, face visible, single object, many colors, high motion
+A Musical which is more specifically Guitar, human present, face visible, single object, many colors, low motion
+A Land Animal which is more specifically Horse, no human, no face visible, two objects, many colors, high motion
+A Land Animal which is more specifically Horse, no human, no face visible, three objects, many colors, high motion
+A Land Animal which is more specifically Horse, no human, no face visible, three objects, many colors, high motion
+A Land Animal which is more specifically Horse, no human, no face visible, three objects, many colors, high motion
+A Land Animal which is more specifically Horse, no human, no face visible, two objects, many colors, high motion
+A Transportation which is more specifically Airplane, no human, no face visible, single object, with dominant color white, high motion
+A Transportation which is more specifically Airplane, no human, no face visible, single object, many colors, low motion
+A Transportation which is more specifically Airplane, no human, no face visible, single object, many colors, low motion
+A Transportation which is more specifically Airplane, no human, no face visible, single object, many colors, low motion
+A Transportation which is more specifically Airplane, no human, no face visible, single object, with dominant color blue, low motion
+A Exercise which is more specifically Running, human present, face visible, single object, many colors, high motion
+A Exercise which is more specifically Running, human present, face visible, single object, many colors, high motion
+A Exercise which is more specifically Running, human present, face visible, single object, many colors, high motion
+A Exercise which is more specifically Running, human present, no face visible, two objects, many colors, high motion
+A Exercise which is more specifically Running, human present, face visible, single object, many colors, low motion
+A Land Animal which is more specifically Cat, no human, no face visible, single object, many colors, low motion
+A Land Animal which is more specifically Cat, no human, no face visible, two objects, with dominant color yellow, low motion
+A Land Animal which is more specifically Cat, no human, no face visible, single object, with dominant color yellow, low motion
+A Land Animal which is more specifically Cat, no human, no face visible, single object, many colors, high motion
+A Land Animal which is more specifically Cat, no human, no face visible, single object, many colors, low motion
+A Natural Scene which is more specifically Water, no human, no face visible, single object, many colors, high motion
+A Natural Scene which is more specifically Water, no human, no face visible, single object, many colors, high motion
+A Natural Scene which is more specifically Water, no human, no face visible, single object, many colors, low motion
+A Natural Scene which is more specifically Water, no human, no face visible, single object, many colors, low motion
+A Natural Scene which is more specifically Water, no human, no face visible, single object, many colors, high motion
+A Human which is more specifically Couple, human present, face visible, two objects, many colors, high motion
+A Human which is more specifically Couple, human present, face visible, two objects, many colors, high motion
+A Human which is more specifically Couple, human present, face visible, two objects, many colors, high motion
+A Human which is more specifically Couple, human present, face visible, two objects, many colors, high motion
+A Human which is more specifically Couple, human present, face visible, two objects, many colors, high motion
+A Food  which is more specifically Cake, no human, no face visible, single object, many colors, low motion
+A Food  which is more specifically Cake, no human, no face visible, three objects, many colors, low motion
+A Food  which is more specifically Cake, no human, no face visible, single object, with dominant color gray, low motion
+A Food  which is more specifically Cake, no human, no face visible, single object, many colors, low motion
+A Food  which is more specifically Cake, no human, no face visible, single object, many colors, low motion
+A Plant which is more specifically Mushroom, no human, no face visible, three objects, with dominant color yellow, low motion
+A Plant which is more specifically Mushroom, no human, no face visible, three objects, many colors, high motion
+A Plant which is more specifically Mushroom, no human, no face visible, two objects, many colors, low motion
+A Plant which is more specifically Mushroom, no human, no face visible, three objects, many colors, low motion
+A Plant which is more specifically Mushroom, no human, no face visible, single object, many colors, low motion
+A Food  which is more specifically Watermelon, no human, no face visible, single object, with dominant color red, high motion
+A Food  which is more specifically Watermelon, no human, no face visible, single object, with dominant color red, low motion
+A Food  which is more specifically Watermelon, no human, no face visible, single object, with dominant color green, high motion
+A Food  which is more specifically Watermelon, human present, no face visible, single object, with dominant color green, high motion
+A Food  which is more specifically Watermelon, human present, no face visible, single object, with dominant color green, high motion
+A Transportation which is more specifically Car, no human, no face visible, single object, many colors, high motion
+A Transportation which is more specifically Car, no human, no face visible, single object, with dominant color blue, low motion
+A Transportation which is more specifically Car, no human, no face visible, single object, with dominant color white, high motion
+A Transportation which is more specifically Car, no human, no face visible, single object, with dominant color gray, low motion
+A Transportation which is more specifically Car, no human, no face visible, single object, with dominant color gray, high motion
+A Land Animal which is more specifically Dog, no human, no face visible, single object, many colors, high motion
+A Land Animal which is more specifically Dog, no human, no face visible, single object, with dominant color gray, low motion
+A Land Animal which is more specifically Dog, no human, no face visible, single object, many colors, high motion
+A Land Animal which is more specifically Dog, no human, no face visible, single object, with dominant color yellow, low motion
+A Land Animal which is more specifically Dog, no human, no face visible, single object, many colors, low motion
+A Water Animal which is more specifically Turtle, no human, no face visible, single object, many colors, low motion
+A Water Animal which is more specifically Turtle, no human, no face visible, single object, many colors, high motion
+A Water Animal which is more specifically Turtle, no human, no face visible, single object, with dominant color blue, high motion
+A Water Animal which is more specifically Turtle, no human, no face visible, single object, many colors, high motion
+A Water Animal which is more specifically Turtle, no human, no face visible, single object, many colors, high motion
+A Plant which is more specifically Flower, no human, no face visible, three objects, with dominant color red, high motion
+A Plant which is more specifically Flower, no human, no face visible, three objects, with dominant color red, low motion
+A Plant which is more specifically Flower, no human, no face visible, single object, with dominant color red, high motion
+A Plant which is more specifically Flower, no human, no face visible, three objects, with dominant color red, low motion
+A Plant which is more specifically Flower, no human, no face visible, three objects, with dominant color white, low motion
+A Food  which is more specifically Drink, no human, no face visible, single object, with dominant color yellow, low motion
+A Food  which is more specifically Drink, no human, no face visible, single object, with dominant color red, low motion
+A Food  which is more specifically Drink, no human, no face visible, single object, many colors, low motion
+A Food  which is more specifically Drink, no human, no face visible, single object, with dominant color white, low motion
+A Food  which is more specifically Drink, no human, no face visible, single object, with dominant color red, low motion
+A Food  which is more specifically Pizza, no human, no face visible, single object, many colors, low motion
+A Food  which is more specifically Pizza, no human, no face visible, single object, many colors, high motion
+A Food  which is more specifically Pizza, no human, no face visible, single object, many colors, high motion
+A Food  which is more specifically Pizza, no human, no face visible, single object, many colors, high motion
+A Food  which is more specifically Pizza, no human, no face visible, single object, many colors, high motion
+A Water Animal which is more specifically Fish/Coral, no human, no face visible, three objects, many colors, high motion
+A Water Animal which is more specifically Fish/Coral, no human, no face visible, single object, many colors, low motion
+A Water Animal which is more specifically Fish/Coral, no human, no face visible, three objects, many colors, high motion
+A Water Animal which is more specifically Fish/Coral, no human, no face visible, single object, many colors, high motion
+A Water Animal which is more specifically Fish/Coral, no human, no face visible, three objects, many colors, high motion
+A Human which is more specifically Crowd, human present, face visible, three objects, many colors, high motion
+A Human which is more specifically Crowd, human present, face visible, three objects, many colors, high motion
+A Human which is more specifically Crowd, human present, face visible, three objects, many colors, high motion
+A Human which is more specifically Crowd, human present, face visible, three objects, many colors, high motion
+A Human which is more specifically Crowd, human present, face visible, three objects, many colors, high motion
+A Land Animal which is more specifically Bird, no human, no face visible, single object, with dominant color white, low motion
+A Land Animal which is more specifically Bird, no human, no face visible, single object, many colors, high motion
+A Land Animal which is more specifically Bird, no human, no face visible, three objects, many colors, low motion
+A Land Animal which is more specifically Bird, no human, no face visible, single object, many colors, low motion
+A Land Animal which is more specifically Bird, no human, no face visible, two objects, many colors, high motion
+A Water Animal which is more specifically Shark-like, no human, no face visible, single object, with dominant color blue, low motion
+A Water Animal which is more specifically Shark-like, no human, no face visible, single object, with dominant color blue, low motion
+A Water Animal which is more specifically Shark-like, no human, no face visible, single object, with dominant color blue, low motion
+A Water Animal which is more specifically Shark-like, no human, no face visible, single object, with dominant color blue, low motion
+A Water Animal which is more specifically Shark-like, no human, no face visible, single object, with dominant color blue, high motion
+A Natural Scene which is more specifically Fireworks, no human, no face visible, single object, many colors, low motion
+A Natural Scene which is more specifically Fireworks, no human, no face visible, three objects, many colors, low motion
+A Natural Scene which is more specifically Fireworks, no human, no face visible, three objects, many colors, low motion
+A Natural Scene which is more specifically Fireworks, no human, no face visible, three objects, many colors, low motion
+A Natural Scene which is more specifically Fireworks, no human, no face visible, three objects, many colors, high motion
+A Musical which is more specifically Drum, human present, no face visible, three objects, many colors, low motion
+A Musical which is more specifically Drum, human present, no face visible, three objects, many colors, low motion
+A Musical which is more specifically Drum, human present, face visible, three objects, many colors, low motion
+A Musical which is more specifically Drum, human present, no face visible, three objects, many colors, low motion
+A Musical which is more specifically Drum, human present, no face visible, three objects, many colors, low motion
+A Natural Scene which is more specifically Beach, no human, no face visible, single object, many colors, low motion
+A Natural Scene which is more specifically Beach, no human, no face visible, single object, many colors, high motion
+A Natural Scene which is more specifically Beach, human present, no face visible, single object, many colors, low motion
+A Natural Scene which is more specifically Beach, no human, no face visible, single object, many colors, high motion
+A Natural Scene which is more specifically Beach, no human, no face visible, single object, many colors, high motion
+A Food  which is more specifically Banana, no human, no face visible, single object, with dominant color yellow, low motion
+A Food  which is more specifically Banana, no human, no face visible, three objects, with dominant color yellow, high motion
+A Food  which is more specifically Banana, no human, no face visible, single object, with dominant color yellow, high motion
+A Food  which is more specifically Banana, no human, no face visible, single object, with dominant color yellow, low motion
+A Food  which is more specifically Banana, human present, no face visible, single object, with dominant color yellow, low motion
+A Food  which is more specifically Pizza, no human, no face visible, single object, many colors, high motion
+A Food  which is more specifically Pizza, no human, no face visible, single object, many colors, high motion
+A Food  which is more specifically Pizza, no human, no face visible, single object, many colors, high motion
+A Food  which is more specifically Pizza, no human, no face visible, single object, many colors, high motion
+A Food  which is more specifically Pizza, human present, no face visible, single object, many colors, high motion
+A Plant which is more specifically Flower, no human, no face visible, three objects, many colors, low motion
+A Plant which is more specifically Flower, no human, no face visible, three objects, with dominant color yellow, high motion
+A Plant which is more specifically Flower, no human, no face visible, three objects, many colors, high motion
+A Plant which is more specifically Flower, no human, no face visible, three objects, with dominant color yellow, low motion
+A Plant which is more specifically Flower, no human, no face visible, three objects, with dominant color yellow, low motion
+A Transportation which is more specifically Hot balloon, no human, no face visible, three objects, many colors, low motion
+A Transportation which is more specifically Hot balloon, no human, no face visible, three objects, many colors, low motion
+A Transportation which is more specifically Hot balloon, no human, no face visible, three objects, many colors, low motion
+A Transportation which is more specifically Hot balloon, no human, no face visible, three objects, many colors, high motion
+A Transportation which is more specifically Hot balloon, no human, no face visible, three objects, many colors, low motion
+A Land Animal which is more specifically Horse, no human, no face visible, three objects, many colors, low motion
+A Land Animal which is more specifically Horse, no human, no face visible, single object, many colors, high motion
+A Land Animal which is more specifically Horse, no human, no face visible, three objects, many colors, low motion
+A Land Animal which is more specifically Horse, no human, no face visible, three objects, many colors, high motion
+A Land Animal which is more specifically Horse, no human, no face visible, two objects, many colors, high motion
+A Exercise which is more specifically Skiing, human present, no face visible, single object, with dominant color white, low motion
+A Land Animal which is more specifically Dog, human present, no face visible, single object, with dominant color white, high motion
+A Exercise which is more specifically Skiing, human present, no face visible, single object, with dominant color white, high motion
+A Exercise which is more specifically Skiing, human present, no face visible, single object, with dominant color white, high motion
+A Exercise which is more specifically Skiing, human present, no face visible, single object, with dominant color white, high motion
+A Exercise which is more specifically Running, human present, no face visible, single object, many colors, high motion
+A Exercise which is more specifically Running, human present, face visible, single object, many colors, low motion
+A Exercise which is more specifically Running, human present, no face visible, single object, many colors, high motion
+A Exercise which is more specifically Running, human present, face visible, single object, many colors, low motion
+A Exercise which is more specifically Running, human present, face visible, single object, many colors, low motion
+A Musical which is more specifically Piano, human present, no face visible, single object, many colors, low motion
+A Musical which is more specifically Piano, human present, no face visible, single object, many colors, high motion
+A Musical which is more specifically Piano, human present, no face visible, single object, many colors, high motion
+A Musical which is more specifically Piano, human present, no face visible, single object, many colors, low motion
+A Musical which is more specifically Piano, human present, no face visible, single object, many colors, low motion
+A Transportation which is more specifically Airplane, no human, no face visible, single object, many colors, high motion
+A Transportation which is more specifically Airplane, no human, no face visible, single object, with dominant color white, low motion
+A Transportation which is more specifically Airplane, no human, no face visible, single object, many colors, high motion
+A Transportation which is more specifically Airplane, no human, no face visible, single object, with dominant color white, low motion
+A Transportation which is more specifically Airplane, no human, no face visible, single object, many colors, high motion
+A Transportation which is more specifically Ship, no human, no face visible, single object, many colors, low motion
+A Transportation which is more specifically Ship, no human, no face visible, single object, with dominant color gray, high motion
+A Transportation which is more specifically Ship, no human, no face visible, single object, many colors, low motion
+A Transportation which is more specifically Ship, no human, no face visible, two objects, many colors, low motion
+A Transportation which is more specifically Ship, no human, no face visible, single object, many colors, high motion
+A Land Animal which is more specifically Panda, no human, no face visible, single object, many colors, low motion
+A Land Animal which is more specifically Panda, no human, no face visible, single object, many colors, high motion
+A Land Animal which is more specifically Panda, no human, no face visible, single object, many colors, high motion
+A Land Animal which is more specifically Panda, no human, no face visible, single object, many colors, high motion
+A Land Animal which is more specifically Panda, no human, no face visible, single object, many colors, high motion
+A Natural Scene which is more specifically Mountain, no human, no face visible, three objects, many colors, high motion
+A Natural Scene which is more specifically Mountain, no human, no face visible, single object, many colors, high motion
+A Natural Scene which is more specifically Mountain, no human, no face visible, three objects, many colors, low motion
+A Natural Scene which is more specifically Mountain, no human, no face visible, three objects, many colors, low motion
+A Natural Scene which is more specifically Mountain, no human, no face visible, three objects, many colors, high motion
+A Food  which is more specifically Watermelon, human present, no face visible, three objects, with dominant color green, high motion
+A Food  which is more specifically Watermelon, no human, no face visible, single object, with dominant color green, high motion
+A Food  which is more specifically Watermelon, no human, no face visible, two objects, with dominant color red, high motion
+A Food  which is more specifically Watermelon, no human, no face visible, three objects, with dominant color green, high motion
+A Food  which is more specifically Watermelon, no human, no face visible, single object, many colors, high motion
+A Exercise which is more specifically Boxing, human present, face visible, single object, many colors, high motion
+A Exercise which is more specifically Boxing, human present, face visible, two objects, many colors, high motion
+A Exercise which is more specifically Boxing, human present, no face visible, single object, many colors, low motion
+A Exercise which is more specifically Boxing, human present, face visible, single object, many colors, high motion
+A Exercise which is more specifically Boxing, human present, no face visible, single object, many colors, low motion
+A Plant which is more specifically Mushroom, no human, no face visible, three objects, with dominant color yellow, low motion
+A Plant which is more specifically Mushroom, no human, no face visible, three objects, with dominant color yellow, high motion
+A Plant which is more specifically Mushroom, no human, no face visible, three objects, many colors, low motion
+A Plant which is more specifically Mushroom, no human, no face visible, three objects, many colors, low motion
+A Plant which is more specifically Mushroom, no human, no face visible, three objects, many colors, high motion
+A Land Animal which is more specifically Dog, no human, no face visible, single object, many colors, low motion
+A Land Animal which is more specifically Dog, no human, no face visible, single object, many colors, high motion
+A Land Animal which is more specifically Dog, no human, no face visible, single object, many colors, low motion
+A Land Animal which is more specifically Dog, no human, no face visible, single object, many colors, high motion
+A Land Animal which is more specifically Dog, no human, no face visible, single object, many colors, low motion
+A Exercise which is more specifically Dancing, human present, face visible, single object, many colors, low motion
+A Exercise which is more specifically Dancing, human present, face visible, single object, many colors, high motion
+A Exercise which is more specifically Dancing, human present, face visible, single object, many colors, high motion
+A Exercise which is more specifically Dancing, human present, face visible, single object, many colors, low motion
+A Exercise which is more specifically Dancing, human present, face visible, single object, many colors, high motion
+A Musical which is more specifically Guitar, human present, face visible, single object, many colors, low motion
+A Musical which is more specifically Guitar, human present, face visible, single object, many colors, low motion
+A Musical which is more specifically Guitar, human present, face visible, single object, many colors, low motion
+A Musical which is more specifically Guitar, human present, face visible, single object, many colors, low motion
+A Musical which is more specifically Guitar, human present, no face visible, single object, many colors, low motion
+A Natural Scene which is more specifically Road, no human, no face visible, single object, many colors, low motion
+A Natural Scene which is more specifically Road, no human, no face visible, single object, many colors, low motion
+A Natural Scene which is more specifically Road, no human, no face visible, single object, many colors, high motion
+A Natural Scene which is more specifically Road, no human, no face visible, single object, many colors, high motion
+A Natural Scene which is more specifically Road, no human, no face visible, single object, many colors, low motion
+A Human which is more specifically Face, human present, face visible, single object, many colors, high motion
+A Human which is more specifically Face, human present, face visible, single object, many colors, low motion
+A Human which is more specifically Face, human present, face visible, single object, many colors, low motion
+A Human which is more specifically Face, human present, face visible, single object, many colors, low motion
+A Human which is more specifically Face, human present, face visible, single object, many colors, low motion
+A Food  which is more specifically Drink, no human, no face visible, two objects, many colors, low motion
+A Food  which is more specifically Drink, no human, no face visible, single object, with dominant color yellow, low motion
+A Food  which is more specifically Drink, no human, no face visible, three objects, many colors, low motion
+A Food  which is more specifically Drink, no human, no face visible, three objects, many colors, low motion
+A Food  which is more specifically Drink, no human, no face visible, single object, with dominant color red, low motion
+A Natural Scene which is more specifically Buildings, no human, no face visible, three objects, many colors, low motion
+A Natural Scene which is more specifically Buildings, no human, no face visible, three objects, many colors, low motion
+A Natural Scene which is more specifically Buildings, no human, no face visible, three objects, many colors, high motion
+A Natural Scene which is more specifically Buildings, no human, no face visible, single object, many colors, high motion
+A Natural Scene which is more specifically Buildings, no human, no face visible, three objects, many colors, high motion
+A Land Animal which is more specifically Elephant, no human, no face visible, single object, many colors, high motion
+A Land Animal which is more specifically Elephant, no human, no face visible, single object, many colors, high motion
+A Land Animal which is more specifically Elephant, no human, no face visible, two objects, many colors, high motion
+A Land Animal which is more specifically Elephant, no human, no face visible, three objects, many colors, high motion
+A Land Animal which is more specifically Elephant, no human, no face visible, single object, many colors, high motion
+A Water Animal which is more specifically Fish/Coral, no human, no face visible, single object, many colors, high motion
+A Water Animal which is more specifically Fish/Coral, no human, no face visible, three objects, many colors, high motion
+A Water Animal which is more specifically Fish/Coral, no human, no face visible, two objects, many colors, high motion
+A Water Animal which is more specifically Fish/Coral, no human, no face visible, three objects, many colors, low motion
+A Water Animal which is more specifically Fish/Coral, no human, no face visible, single object, many colors, low motion
+A Food  which is more specifically Cake, no human, no face visible, single object, many colors, low motion
+A Food  which is more specifically Cake, no human, no face visible, single object, with dominant color red, low motion
+A Food  which is more specifically Cake, no human, no face visible, single object, many colors, low motion
+A Food  which is more specifically Cake, no human, no face visible, single object, many colors, low motion
+A Food  which is more specifically Cake, no human, no face visible, single object, with dominant color white, low motion
+A Land Animal which is more specifically Bird, no human, no face visible, single object, with dominant color blue, high motion
+A Land Animal which is more specifically Bird, no human, no face visible, single object, with dominant color blue, high motion
+A Land Animal which is more specifically Bird, no human, no face visible, single object, with dominant color blue, high motion
+A Land Animal which is more specifically Bird, no human, no face visible, single object, many colors, high motion
+A Land Animal which is more specifically Bird, no human, no face visible, two objects, many colors, high motion
+A Human which is more specifically Couple, human present, face visible, two objects, many colors, low motion
+A Human which is more specifically Couple, human present, face visible, two objects, many colors, high motion
+A Human which is more specifically Couple, human present, face visible, two objects, many colors, low motion
+A Human which is more specifically Couple, human present, face visible, two objects, many colors, low motion
+A Human which is more specifically Couple, human present, face visible, two objects, many colors, high motion
+A Water Animal which is more specifically Turtle, no human, no face visible, single object, many colors, low motion
+A Water Animal which is more specifically Turtle, no human, no face visible, single object, many colors, high motion
+A Water Animal which is more specifically Turtle, no human, no face visible, single object, many colors, high motion
+A Water Animal which is more specifically Turtle, no human, no face visible, single object, many colors, low motion
+A Water Animal which is more specifically Turtle, no human, no face visible, single object, many colors, high motion
+A Plant which is more specifically Tree, no human, no face visible, three objects, with dominant color green, high motion
+A Plant which is more specifically Tree, no human, no face visible, three objects, with dominant color green, high motion
+A Plant which is more specifically Tree, no human, no face visible, three objects, with dominant color green, high motion
+A Plant which is more specifically Tree, no human, no face visible, three objects, with dominant color green, high motion
+A Plant which is more specifically Tree, no human, no face visible, three objects, with dominant color green, high motion
+A Transportation which is more specifically Car, no human, no face visible, single object, with dominant color white, low motion
+A Transportation which is more specifically Car, no human, no face visible, single object, many colors, high motion
+A Transportation which is more specifically Car, no human, no face visible, single object, with dominant color white, high motion
+A Transportation which is more specifically Car, no human, no face visible, single object, with dominant color white, high motion
+A Transportation which is more specifically Car, no human, no face visible, single object, with dominant color yellow, high motion
+A Land Animal which is more specifically Rabbit, no human, no face visible, single object, with dominant color white, low motion
+A Land Animal which is more specifically Rabbit, no human, no face visible, single object, many colors, low motion
+A Land Animal which is more specifically Rabbit, no human, no face visible, single object, many colors, high motion
+A Land Animal which is more specifically Rabbit, no human, no face visible, two objects, many colors, high motion
+A Land Animal which is more specifically Rabbit, no human, no face visible, two objects, many colors, low motion
+A Human which is more specifically Crowd, human present, face visible, three objects, many colors, high motion
+A Human which is more specifically Crowd, human present, face visible, three objects, many colors, high motion
+A Human which is more specifically Crowd, human present, face visible, three objects, many colors, low motion
+A Human which is more specifically Crowd, human present, face visible, three objects, many colors, high motion
+A Human which is more specifically Crowd, human present, face visible, three objects, many colors, high motion
+A Land Animal which is more specifically Cat, no human, no face visible, three objects, many colors, low motion
+A Land Animal which is more specifically Cat, no human, no face visible, single object, many colors, low motion
+A Land Animal which is more specifically Cat, no human, no face visible, single object, many colors, low motion
+A Land Animal which is more specifically Cat, no human, no face visible, single object, many colors, high motion
+A Land Animal which is more specifically Cat, no human, no face visible, single object, many colors, low motion
+A Water Animal which is more specifically Shark-like, no human, no face visible, single object, with dominant color blue, low motion
+A Water Animal which is more specifically Shark-like, no human, no face visible, single object, with dominant color blue, low motion
+A Water Animal which is more specifically Shark-like, no human, no face visible, single object, with dominant color blue, high motion
+A Water Animal which is more specifically Shark-like, no human, no face visible, single object, with dominant color blue, high motion
+A Water Animal which is more specifically Shark-like, no human, no face visible, single object, with dominant color blue, low motion
+A Transportation which is more specifically Bike, human present, no face visible, single object, many colors, high motion
+A Transportation which is more specifically Bike, human present, no face visible, three objects, many colors, high motion
+A Transportation which is more specifically Bike, human present, no face visible, single object, many colors, high motion
+A Transportation which is more specifically Bike, human present, no face visible, single object, many colors, high motion
+A Transportation which is more specifically Bike, human present, no face visible, single object, many colors, low motion
+A Natural Scene which is more specifically Water, no human, no face visible, single object, many colors, low motion
+A Natural Scene which is more specifically Water, no human, no face visible, single object, many colors, high motion
+A Natural Scene which is more specifically Water, no human, no face visible, single object, many colors, high motion
+A Natural Scene which is more specifically Water, no human, no face visible, single object, many colors, low motion
+A Natural Scene which is more specifically Water, no human, no face visible, single object, many colors, high motion
+A Water Animal which is more specifically Jellyfish, no human, no face visible, three objects, many colors, low motion
+A Water Animal which is more specifically Jellyfish, no human, no face visible, single object, many colors, low motion
+A Water Animal which is more specifically Jellyfish, no human, no face visible, single object, many colors, low motion
+A Water Animal which is more specifically Jellyfish, no human, no face visible, single object, with dominant color blue, low motion
+A Water Animal which is more specifically Jellyfish, no human, no face visible, single object, many colors, high motion
+A Exercise which is more specifically Boxing, human present, face visible, single object, many colors, low motion
+A Exercise which is more specifically Boxing, human present, face visible, two objects, many colors, high motion
+A Exercise which is more specifically Boxing, human present, face visible, single object, many colors, high motion
+A Exercise which is more specifically Boxing, human present, face visible, two objects, many colors, high motion
+A Exercise which is more specifically Boxing, human present, face visible, single object, many colors, high motion
+A Transportation which is more specifically Bike, human present, no face visible, three objects, many colors, high motion
+A Transportation which is more specifically Bike, human present, no face visible, three objects, many colors, high motion
+A Transportation which is more specifically Bike, human present, no face visible, two objects, many colors, high motion
+A Transportation which is more specifically Bike, human present, no face visible, three objects, many colors, high motion
+A Transportation which is more specifically Bike, human present, no face visible, single object, many colors, high motion
+A Food  which is more specifically Pizza, no human, no face visible, single object, many colors, high motion
+A Food  which is more specifically Pizza, no human, no face visible, single object, many colors, high motion
+A Food  which is more specifically Pizza, no human, no face visible, single object, many colors, high motion
+A Food  which is more specifically Pizza, no human, no face visible, two objects, many colors, high motion
+A Food  which is more specifically Pizza, no human, no face visible, single object, many colors, high motion
+A Land Animal which is more specifically Cat, no human, no face visible, single object, many colors, low motion
+A Land Animal which is more specifically Cat, no human, no face visible, single object, many colors, low motion
+A Land Animal which is more specifically Cat, no human, no face visible, single object, with dominant color yellow, low motion
+A Land Animal which is more specifically Cat, no human, no face visible, single object, many colors, high motion
+A Land Animal which is more specifically Cat, no human, no face visible, single object, many colors, high motion
+A Musical which is more specifically Guitar, human present, face visible, single object, many colors, high motion
+A Musical which is more specifically Guitar, human present, no face visible, single object, many colors, low motion
+A Musical which is more specifically Guitar, human present, face visible, single object, many colors, high motion
+A Musical which is more specifically Guitar, human present, face visible, single object, many colors, high motion
+A Musical which is more specifically Guitar, human present, face visible, single object, many colors, low motion
+A Land Animal which is more specifically Elephant, no human, no face visible, three objects, many colors, high motion
+A Land Animal which is more specifically Elephant, no human, no face visible, single object, many colors, high motion
+A Land Animal which is more specifically Elephant, no human, no face visible, single object, many colors, high motion
+A Land Animal which is more specifically Elephant, no human, no face visible, single object, many colors, high motion
+A Land Animal which is more specifically Elephant, no human, no face visible, single object, many colors, high motion
+A Transportation which is more specifically Car, no human, no face visible, single object, many colors, high motion
+A Transportation which is more specifically Car, no human, no face visible, single object, with dominant color gray, low motion
+A Transportation which is more specifically Car, no human, no face visible, single object, with dominant color gray, low motion
+A Transportation which is more specifically Car, no human, no face visible, single object, many colors, high motion
+A Transportation which is more specifically Car, human present, no face visible, single object, with dominant color gray, high motion
+A Plant which is more specifically Flower, no human, no face visible, single object, with dominant color yellow, low motion
+A Plant which is more specifically Flower, no human, no face visible, three objects, with dominant color blue, high motion
+A Plant which is more specifically Flower, no human, no face visible, three objects, many colors, high motion
+A Plant which is more specifically Flower, no human, no face visible, three objects, many colors, low motion
+A Plant which is more specifically Flower, no human, no face visible, single object, many colors, low motion
+A Land Animal which is more specifically Horse, no human, no face visible, two objects, with dominant color gray, high motion
+A Land Animal which is more specifically Horse, no human, no face visible, two objects, with dominant color gray, high motion
+A Land Animal which is more specifically Horse, no human, no face visible, three objects, with dominant color gray, high motion
+A Land Animal which is more specifically Horse, no human, no face visible, two objects, many colors, high motion
+A Land Animal which is more specifically Horse, no human, no face visible, three objects, many colors, high motion
+A Land Animal which is more specifically Panda, no human, no face visible, single object, many colors, low motion
+A Land Animal which is more specifically Panda, no human, no face visible, single object, many colors, high motion
+A Land Animal which is more specifically Panda, no human, no face visible, single object, many colors, high motion
+A Land Animal which is more specifically Panda, no human, no face visible, single object, many colors, high motion
+A Land Animal which is more specifically Panda, no human, no face visible, single object, many colors, high motion
+A Human which is more specifically Crowd, human present, face visible, three objects, many colors, high motion
+A Human which is more specifically Crowd, human present, face visible, three objects, many colors, high motion
+A Human which is more specifically Crowd, human present, face visible, three objects, many colors, high motion
+A Human which is more specifically Crowd, human present, face visible, three objects, many colors, high motion
+A Human which is more specifically Crowd, no human, face visible, three objects, many colors, high motion
+A Natural Scene which is more specifically Mountain, no human, no face visible, three objects, with dominant color green, high motion
+A Natural Scene which is more specifically Mountain, no human, no face visible, single object, many colors, high motion
+A Natural Scene which is more specifically Mountain, no human, no face visible, three objects, many colors, high motion
+A Natural Scene which is more specifically Mountain, no human, no face visible, two objects, many colors, high motion
+A Natural Scene which is more specifically Mountain, no human, no face visible, three objects, with dominant color white, high motion
+A Plant which is more specifically Tree, no human, no face visible, three objects, with dominant color green, high motion
+A Plant which is more specifically Tree, no human, no face visible, three objects, with dominant color green, high motion
+A Plant which is more specifically Tree, no human, no face visible, three objects, with dominant color green, high motion
+A Plant which is more specifically Tree, no human, no face visible, three objects, with dominant color green, high motion
+A Plant which is more specifically Tree, no human, no face visible, three objects, with dominant color green, high motion
+A Exercise which is more specifically Dancing, human present, face visible, single object, many colors, low motion
+A Exercise which is more specifically Dancing, human present, face visible, single object, many colors, low motion
+A Exercise which is more specifically Dancing, human present, face visible, single object, many colors, high motion
+A Exercise which is more specifically Dancing, human present, no face visible, single object, many colors, low motion
+A Exercise which is more specifically Dancing, human present, face visible, single object, many colors, low motion
+A Transportation which is more specifically Airplane, no human, no face visible, single object, many colors, low motion
+A Transportation which is more specifically Airplane, no human, no face visible, single object, many colors, low motion
+A Transportation which is more specifically Airplane, no human, no face visible, single object, many colors, high motion
+A Transportation which is more specifically Airplane, no human, no face visible, single object, many colors, low motion
+A Transportation which is more specifically Airplane, no human, no face visible, single object, many colors, low motion
+A Human which is more specifically Couple, human present, face visible, two objects, many colors, low motion
+A Human which is more specifically Couple, human present, face visible, two objects, many colors, high motion
+A Human which is more specifically Couple, human present, face visible, two objects, many colors, high motion
+A Human which is more specifically Couple, human present, face visible, two objects, many colors, low motion
+A Human which is more specifically Couple, human present, face visible, two objects, many colors, high motion
+A Food  which is more specifically Banana, no human, no face visible, three objects, with dominant color yellow, low motion
+A Food  which is more specifically Banana, no human, no face visible, single object, with dominant color yellow, low motion
+A Food  which is more specifically Banana, human present, no face visible, three objects, with dominant color yellow, low motion
+A Food  which is more specifically Banana, no human, no face visible, single object, with dominant color yellow, low motion
+A Food  which is more specifically Banana, no human, no face visible, single object, with dominant color yellow, low motion
+A Food  which is more specifically Cake, no human, no face visible, single object, with dominant color red, low motion
+A Food  which is more specifically Cake, no human, no face visible, single object, many colors, low motion
+A Food  which is more specifically Cake, no human, no face visible, single object, many colors, low motion
+A Food  which is more specifically Cake, no human, no face visible, single object, many colors, low motion
+A Food  which is more specifically Cake, no human, no face visible, single object, many colors, low motion
+A Exercise which is more specifically Skiing, human present, no face visible, three objects, with dominant color white, high motion
+A Exercise which is more specifically Skiing, human present, no face visible, single object, many colors, high motion
+A Exercise which is more specifically Skiing, human present, no face visible, single object, with dominant color white, high motion
+A Exercise which is more specifically Skiing, human present, no face visible, single object, many colors, low motion
+A Exercise which is more specifically Skiing, human present, no face visible, single object, many colors, high motion
+A Food  which is more specifically Watermelon, no human, no face visible, single object, with dominant color green, low motion
+A Food  which is more specifically Watermelon, no human, no face visible, single object, with dominant color green, high motion
+A Food  which is more specifically Watermelon, no human, no face visible, three objects, with dominant color red, low motion
+A Food  which is more specifically Watermelon, no human, no face visible, single object, with dominant color green, high motion
+A Food  which is more specifically Watermelon, no human, no face visible, three objects, with dominant color red, low motion
+A Land Animal which is more specifically Dog, no human, no face visible, single object, with dominant color gray, low motion
+A Land Animal which is more specifically Dog, no human, no face visible, single object, many colors, low motion
+A Land Animal which is more specifically Dog, no human, no face visible, single object, many colors, low motion
+A Land Animal which is more specifically Dog, no human, no face visible, single object, many colors, low motion
+A Land Animal which is more specifically Dog, no human, no face visible, single object, many colors, low motion
+A Natural Scene which is more specifically Fireworks, no human, no face visible, three objects, many colors, high motion
+A Natural Scene which is more specifically Fireworks, no human, no face visible, three objects, many colors, low motion
+A Natural Scene which is more specifically Fireworks, no human, no face visible, three objects, many colors, high motion
+A Natural Scene which is more specifically Fireworks, no human, no face visible, three objects, many colors, high motion
+A Natural Scene which is more specifically Fireworks, no human, no face visible, three objects, many colors, high motion
+A Water Animal which is more specifically Fish/Coral, no human, no face visible, three objects, many colors, high motion
+A Water Animal which is more specifically Fish/Coral, no human, no face visible, two objects, many colors, high motion
+A Water Animal which is more specifically Fish/Coral, no human, no face visible, three objects, many colors, high motion
+A Water Animal which is more specifically Fish/Coral, no human, no face visible, two objects, many colors, high motion
+A Water Animal which is more specifically Fish/Coral, no human, no face visible, two objects, many colors, low motion
+A Human which is more specifically Face, human present, face visible, single object, many colors, low motion
+A Human which is more specifically Face, human present, face visible, single object, many colors, high motion
+A Human which is more specifically Face, human present, face visible, single object, many colors, low motion
+A Human which is more specifically Face, human present, face visible, single object, many colors, low motion
+A Human which is more specifically Face, human present, face visible, single object, many colors, low motion
+A Plant which is more specifically Mushroom, no human, no face visible, three objects, many colors, high motion
+A Plant which is more specifically Mushroom, no human, no face visible, two objects, many colors, high motion
+A Plant which is more specifically Mushroom, no human, no face visible, three objects, many colors, high motion
+A Plant which is more specifically Mushroom, no human, no face visible, three objects, with dominant color white, low motion
+A Plant which is more specifically Mushroom, no human, no face visible, three objects, many colors, low motion
+A Water Animal which is more specifically Shark-like, no human, no face visible, two objects, with dominant color blue, low motion
+A Water Animal which is more specifically Shark-like, no human, no face visible, single object, with dominant color blue, high motion
+A Water Animal which is more specifically Shark-like, no human, no face visible, single object, with dominant color blue, low motion
+A Water Animal which is more specifically Shark-like, no human, no face visible, single object, with dominant color blue, high motion
+A Water Animal which is more specifically Shark-like, no human, no face visible, single object, with dominant color blue, high motion
+A Food  which is more specifically Drink, no human, no face visible, single object, many colors, low motion
+A Food  which is more specifically Drink, no human, no face visible, single object, with dominant color yellow, low motion
+A Food  which is more specifically Drink, no human, no face visible, single object, many colors, low motion
+A Food  which is more specifically Drink, no human, no face visible, single object, with dominant color green, low motion
+A Food  which is more specifically Drink, no human, no face visible, single object, with dominant color white, low motion
+A Transportation which is more specifically Ship, no human, no face visible, single object, many colors, high motion
+A Transportation which is more specifically Ship, no human, no face visible, single object, many colors, low motion
+A Transportation which is more specifically Ship, no human, no face visible, single object, many colors, high motion
+A Transportation which is more specifically Ship, no human, no face visible, single object, many colors, high motion
+A Transportation which is more specifically Ship, no human, no face visible, two objects, many colors, low motion
+A Exercise which is more specifically Running, human present, no face visible, single object, many colors, high motion
+A Exercise which is more specifically Running, human present, face visible, single object, many colors, high motion
+A Exercise which is more specifically Running, human present, face visible, single object, many colors, high motion
+A Exercise which is more specifically Running, human present, face visible, single object, many colors, high motion
+A Exercise which is more specifically Running, human present, no face visible, two objects, many colors, high motion
+A Natural Scene which is more specifically Water, no human, no face visible, single object, many colors, low motion
+A Natural Scene which is more specifically Water, no human, no face visible, single object, many colors, high motion
+A Natural Scene which is more specifically Water, no human, no face visible, single object, many colors, high motion
+A Natural Scene which is more specifically Water, no human, no face visible, single object, many colors, high motion
+A Natural Scene which is more specifically Water, no human, no face visible, single object, many colors, high motion
+A Water Animal which is more specifically Turtle, no human, no face visible, single object, with dominant color blue, high motion
+A Water Animal which is more specifically Turtle, no human, no face visible, single object, with dominant color blue, low motion
+A Water Animal which is more specifically Turtle, no human, no face visible, single object, with dominant color blue, low motion
+A Water Animal which is more specifically Turtle, no human, no face visible, single object, with dominant color blue, low motion
+A Water Animal which is more specifically Turtle, no human, no face visible, single object, many colors, high motion
+A Water Animal which is more specifically Jellyfish, no human, no face visible, single object, many colors, high motion
+A Water Animal which is more specifically Jellyfish, no human, no face visible, single object, many colors, low motion
+A Water Animal which is more specifically Jellyfish, no human, no face visible, three objects, many colors, low motion
+A Water Animal which is more specifically Jellyfish, no human, no face visible, single object, with dominant color red, low motion
+A Water Animal which is more specifically Jellyfish, no human, no face visible, three objects, many colors, high motion
+A Musical which is more specifically Drum, human present, no face visible, three objects, many colors, high motion
+A Musical which is more specifically Drum, human present, face visible, three objects, many colors, low motion
+A Musical which is more specifically Drum, human present, no face visible, three objects, many colors, low motion
+A Musical which is more specifically Drum, human present, no face visible, three objects, many colors, high motion
+A Musical which is more specifically Drum, human present, face visible, three objects, many colors, high motion
+A Natural Scene which is more specifically Road, no human, no face visible, single object, many colors, low motion
+A Natural Scene which is more specifically Road, no human, no face visible, single object, many colors, low motion
+A Natural Scene which is more specifically Road, no human, no face visible, single object, many colors, high motion
+A Natural Scene which is more specifically Road, no human, no face visible, single object, many colors, high motion
+A Natural Scene which is more specifically Road, no human, no face visible, single object, many colors, low motion
+A Musical which is more specifically Piano, human present, no face visible, single object, many colors, high motion
+A Musical which is more specifically Piano, human present, no face visible, single object, many colors, high motion
+A Musical which is more specifically Piano, human present, no face visible, single object, many colors, high motion
+A Musical which is more specifically Piano, human present, no face visible, single object, many colors, low motion
+A Musical which is more specifically Piano, human present, no face visible, single object, many colors, low motion
+A Land Animal which is more specifically Bird, no human, no face visible, single object, with dominant color blue, low motion
+A Land Animal which is more specifically Bird, no human, no face visible, single object, many colors, low motion
+A Land Animal which is more specifically Bird, no human, no face visible, single object, many colors, low motion
+A Land Animal which is more specifically Bird, no human, no face visible, single object, many colors, high motion
+A Land Animal which is more specifically Bird, no human, no face visible, single object, with dominant color yellow, high motion
+A Transportation which is more specifically Hot balloon, no human, no face visible, three objects, many colors, low motion
+A Transportation which is more specifically Hot balloon, no human, no face visible, single object, many colors, low motion
+A Transportation which is more specifically Hot balloon, no human, no face visible, single object, many colors, low motion
+A Transportation which is more specifically Hot balloon, no human, no face visible, three objects, many colors, low motion
+A Transportation which is more specifically Hot balloon, no human, no face visible, single object, many colors, low motion
+A Natural Scene which is more specifically Beach, no human, no face visible, single object, many colors, low motion
+A Natural Scene which is more specifically Beach, no human, no face visible, single object, many colors, low motion
+A Natural Scene which is more specifically Beach, human present, no face visible, single object, many colors, high motion
+A Natural Scene which is more specifically Beach, no human, no face visible, single object, many colors, high motion
+A Natural Scene which is more specifically Beach, no human, no face visible, single object, many colors, low motion
+A Natural Scene which is more specifically Buildings, no human, no face visible, three objects, many colors, high motion
+A Natural Scene which is more specifically Buildings, no human, no face visible, three objects, many colors, high motion
+A Natural Scene which is more specifically Buildings, no human, no face visible, three objects, many colors, high motion
+A Natural Scene which is more specifically Buildings, no human, no face visible, three objects, many colors, high motion
+A Natural Scene which is more specifically Buildings, no human, no face visible, three objects, many colors, low motion
+A Land Animal which is more specifically Rabbit, no human, no face visible, single object, many colors, low motion
+A Land Animal which is more specifically Rabbit, no human, no face visible, single object, with dominant color white, high motion
+A Land Animal which is more specifically Rabbit, no human, no face visible, two objects, many colors, low motion
+A Land Animal which is more specifically Rabbit, no human, no face visible, single object, many colors, high motion
+A Land Animal which is more specifically Rabbit, no human, no face visible, single object, many colors, low motion
+A Exercise which is more specifically Dancing, human present, no face visible, single object, many colors, high motion
+A Exercise which is more specifically Dancing, human present, face visible, single object, many colors, low motion
+A Exercise which is more specifically Dancing, human present, face visible, single object, many colors, low motion
+A Exercise which is more specifically Dancing, human present, face visible, single object, many colors, low motion
+A Exercise which is more specifically Dancing, human present, face visible, single object, many colors, low motion
+A Food  which is more specifically Banana, no human, no face visible, three objects, with dominant color yellow, low motion
+A Food  which is more specifically Banana, no human, no face visible, three objects, with dominant color yellow, low motion
+A Food  which is more specifically Banana, no human, no face visible, single object, with dominant color yellow, low motion
+A Food  which is more specifically Banana, no human, no face visible, three objects, with dominant color yellow, low motion
+A Food  which is more specifically Banana, no human, no face visible, single object, with dominant color yellow, low motion
+A Natural Scene which is more specifically Buildings, no human, no face visible, three objects, many colors, high motion
+A Natural Scene which is more specifically Buildings, no human, no face visible, three objects, many colors, high motion
+A Natural Scene which is more specifically Buildings, no human, no face visible, three objects, many colors, high motion
+A Natural Scene which is more specifically Buildings, no human, no face visible, three objects, many colors, high motion
+A Natural Scene which is more specifically Buildings, no human, no face visible, three objects, many colors, low motion
+A Land Animal which is more specifically Cat, no human, no face visible, single object, many colors, high motion
+A Land Animal which is more specifically Cat, no human, no face visible, single object, many colors, low motion
+A Land Animal which is more specifically Cat, no human, no face visible, single object, many colors, high motion
+A Land Animal which is more specifically Cat, no human, no face visible, single object, many colors, high motion
+A Land Animal which is more specifically Cat, no human, no face visible, single object, many colors, low motion
+A Transportation which is more specifically Airplane, no human, no face visible, single object, many colors, low motion
+A Transportation which is more specifically Airplane, no human, no face visible, single object, many colors, low motion
+A Transportation which is more specifically Airplane, no human, no face visible, single object, many colors, low motion
+A Transportation which is more specifically Airplane, no human, no face visible, single object, many colors, high motion
+A Transportation which is more specifically Airplane, no human, no face visible, single object, many colors, low motion
+A Water Animal which is more specifically Shark-like, no human, no face visible, single object, with dominant color blue, low motion
+A Water Animal which is more specifically Shark-like, no human, no face visible, single object, with dominant color blue, low motion
+A Water Animal which is more specifically Shark-like, no human, no face visible, single object, with dominant color blue, low motion
+A Water Animal which is more specifically Shark-like, no human, no face visible, single object, with dominant color blue, low motion
+A Water Animal which is more specifically Shark-like, no human, no face visible, single object, with dominant color blue, high motion
+A Musical which is more specifically Piano, human present, no face visible, single object, many colors, low motion
+A Musical which is more specifically Piano, human present, no face visible, single object, many colors, high motion
+A Musical which is more specifically Piano, human present, no face visible, single object, many colors, low motion
+A Musical which is more specifically Piano, human present, no face visible, single object, many colors, low motion
+A Musical which is more specifically Piano, human present, no face visible, single object, many colors, low motion
+A Plant which is more specifically Tree, no human, no face visible, three objects, with dominant color green, high motion
+A Plant which is more specifically Tree, no human, no face visible, three objects, with dominant color green, high motion
+A Plant which is more specifically Tree, no human, no face visible, three objects, with dominant color green, high motion
+A Plant which is more specifically Tree, no human, no face visible, three objects, with dominant color green, high motion
+A Plant which is more specifically Tree, no human, no face visible, three objects, with dominant color green, high motion
+A Human which is more specifically Face, human present, face visible, single object, many colors, low motion
+A Human which is more specifically Face, human present, face visible, single object, many colors, low motion
+A Human which is more specifically Face, human present, face visible, single object, many colors, low motion
+A Human which is more specifically Face, human present, face visible, single object, many colors, high motion
+A Human which is more specifically Face, human present, face visible, single object, many colors, low motion
+A Natural Scene which is more specifically Fireworks, no human, no face visible, two objects, many colors, low motion
+A Natural Scene which is more specifically Fireworks, no human, no face visible, two objects, many colors, low motion
+A Natural Scene which is more specifically Fireworks, no human, no face visible, three objects, many colors, low motion
+A Natural Scene which is more specifically Fireworks, no human, no face visible, single object, many colors, low motion
+A Natural Scene which is more specifically Fireworks, no human, no face visible, three objects, many colors, high motion
+A Transportation which is more specifically Car, no human, no face visible, single object, with dominant color red, high motion
+A Transportation which is more specifically Car, no human, no face visible, single object, many colors, low motion
+A Transportation which is more specifically Car, no human, no face visible, single object, many colors, high motion
+A Transportation which is more specifically Car, no human, no face visible, single object, many colors, high motion
+A Transportation which is more specifically Car, human present, no face visible, single object, with dominant color blue, high motion
+A Food  which is more specifically Pizza, human present, no face visible, single object, many colors, high motion
+A Food  which is more specifically Pizza, no human, no face visible, single object, many colors, high motion
+A Food  which is more specifically Pizza, no human, no face visible, single object, many colors, high motion
+A Food  which is more specifically Pizza, no human, no face visible, single object, many colors, high motion
+A Food  which is more specifically Pizza, no human, no face visible, single object, many colors, high motion
+A Land Animal which is more specifically Panda, no human, no face visible, single object, many colors, high motion
+A Land Animal which is more specifically Panda, no human, no face visible, single object, many colors, high motion
+A Land Animal which is more specifically Panda, no human, no face visible, single object, many colors, low motion
+A Land Animal which is more specifically Panda, no human, no face visible, single object, many colors, low motion
+A Land Animal which is more specifically Panda, no human, no face visible, single object, many colors, high motion
+A Exercise which is more specifically Skiing, human present, no face visible, three objects, many colors, high motion
+A Exercise which is more specifically Skiing, human present, no face visible, single object, many colors, high motion
+A Exercise which is more specifically Skiing, human present, no face visible, single object, many colors, low motion
+A Exercise which is more specifically Skiing, human present, no face visible, single object, many colors, low motion
+A Exercise which is more specifically Skiing, human present, face visible, single object, many colors, low motion
+A Water Animal which is more specifically Turtle, no human, no face visible, single object, many colors, high motion
+A Water Animal which is more specifically Turtle, no human, no face visible, two objects, with dominant color green, high motion
+A Water Animal which is more specifically Turtle, no human, no face visible, single object, many colors, low motion
+A Water Animal which is more specifically Turtle, no human, no face visible, single object, many colors, high motion
+A Water Animal which is more specifically Turtle, no human, no face visible, single object, many colors, low motion
+A Natural Scene which is more specifically Road, no human, no face visible, single object, many colors, high motion
+A Natural Scene which is more specifically Road, no human, no face visible, single object, many colors, low motion
+A Natural Scene which is more specifically Road, no human, no face visible, single object, many colors, low motion
+A Natural Scene which is more specifically Road, no human, no face visible, single object, many colors, low motion
+A Natural Scene which is more specifically Road, no human, no face visible, single object, many colors, high motion
+A Food  which is more specifically Cake, no human, no face visible, single object, many colors, high motion
+A Food  which is more specifically Cake, no human, no face visible, single object, many colors, low motion
+A Food  which is more specifically Cake, no human, no face visible, single object, many colors, low motion
+A Food  which is more specifically Cake, no human, no face visible, single object, with dominant color gray, low motion
+A Food  which is more specifically Cake, no human, no face visible, single object, many colors, low motion
+A Plant which is more specifically Mushroom, no human, no face visible, three objects, with dominant color white, low motion
+A Plant which is more specifically Mushroom, no human, no face visible, single object, with dominant color yellow, low motion
+A Plant which is more specifically Mushroom, no human, no face visible, single object, with dominant color yellow, high motion
+A Plant which is more specifically Mushroom, no human, no face visible, three objects, with dominant color yellow, low motion
+A Plant which is more specifically Mushroom, no human, no face visible, three objects, with dominant color white, low motion
+A Human which is more specifically Couple, human present, face visible, two objects, many colors, low motion
+A Human which is more specifically Couple, human present, face visible, two objects, many colors, high motion
+A Human which is more specifically Couple, human present, face visible, two objects, many colors, low motion
+A Human which is more specifically Couple, human present, face visible, two objects, many colors, low motion
+A Human which is more specifically Couple, human present, face visible, two objects, many colors, high motion
+A Natural Scene which is more specifically Mountain, no human, no face visible, three objects, with dominant color green, low motion
+A Natural Scene which is more specifically Mountain, no human, no face visible, three objects, many colors, high motion
+A Natural Scene which is more specifically Mountain, no human, no face visible, three objects, many colors, high motion
+A Natural Scene which is more specifically Mountain, no human, no face visible, two objects, with dominant color green, high motion
+A Natural Scene which is more specifically Mountain, no human, no face visible, three objects, with dominant color yellow, high motion
+A Land Animal which is more specifically Bird, no human, no face visible, single object, many colors, low motion
+A Land Animal which is more specifically Bird, no human, no face visible, single object, many colors, high motion
+A Land Animal which is more specifically Bird, no human, no face visible, single object, many colors, low motion
+A Land Animal which is more specifically Bird, no human, no face visible, three objects, many colors, high motion
+A Land Animal which is more specifically Bird, no human, no face visible, single object, with dominant color yellow, low motion
+A Musical which is more specifically Guitar, human present, face visible, single object, many colors, low motion
+A Musical which is more specifically Guitar, human present, no face visible, single object, many colors, low motion
+A Musical which is more specifically Guitar, human present, no face visible, single object, many colors, low motion
+A Musical which is more specifically Guitar, human present, face visible, single object, many colors, low motion
+A Musical which is more specifically Guitar, human present, face visible, single object, many colors, low motion
+A Natural Scene which is more specifically Water, no human, no face visible, single object, many colors, low motion
+A Natural Scene which is more specifically Water, no human, no face visible, single object, many colors, low motion
+A Natural Scene which is more specifically Water, no human, no face visible, single object, many colors, low motion
+A Natural Scene which is more specifically Water, no human, no face visible, single object, many colors, high motion
+A Natural Scene which is more specifically Water, no human, face visible, single object, many colors, high motion
+A Land Animal which is more specifically Horse, no human, no face visible, three objects, many colors, low motion
+A Land Animal which is more specifically Horse, no human, no face visible, three objects, many colors, low motion
+A Land Animal which is more specifically Horse, no human, no face visible, single object, many colors, low motion
+A Land Animal which is more specifically Horse, no human, no face visible, three objects, many colors, high motion
+A Land Animal which is more specifically Horse, no human, no face visible, three objects, many colors, high motion
+A Transportation which is more specifically Ship, no human, no face visible, single object, many colors, high motion
+A Transportation which is more specifically Ship, no human, no face visible, single object, with dominant color white, high motion
+A Transportation which is more specifically Ship, no human, no face visible, three objects, many colors, high motion
+A Transportation which is more specifically Ship, no human, no face visible, single object, with dominant color white, low motion
+A Transportation which is more specifically Ship, no human, no face visible, single object, many colors, low motion
+A Plant which is more specifically Flower, no human, no face visible, single object, many colors, low motion
+A Plant which is more specifically Flower, no human, no face visible, three objects, with dominant color red, low motion
+A Plant which is more specifically Flower, no human, no face visible, single object, with dominant color white, low motion
+A Plant which is more specifically Flower, no human, no face visible, three objects, with dominant color red, low motion
+A Plant which is more specifically Flower, no human, no face visible, three objects, with dominant color yellow, high motion
+A Water Animal which is more specifically Fish/Coral, no human, no face visible, three objects, many colors, high motion
+A Water Animal which is more specifically Fish/Coral, no human, no face visible, single object, many colors, high motion
+A Water Animal which is more specifically Fish/Coral, no human, no face visible, two objects, many colors, high motion
+A Water Animal which is more specifically Fish/Coral, no human, no face visible, two objects, many colors, high motion
+A Water Animal which is more specifically Fish/Coral, no human, no face visible, three objects, many colors, high motion
+A Natural Scene which is more specifically Beach, no human, no face visible, single object, many colors, low motion
+A Natural Scene which is more specifically Beach, no human, no face visible, single object, many colors, high motion
+A Natural Scene which is more specifically Beach, no human, no face visible, single object, many colors, high motion
+A Natural Scene which is more specifically Beach, no human, no face visible, single object, many colors, high motion
+A Natural Scene which is more specifically Beach, no human, no face visible, single object, many colors, high motion
+A Human which is more specifically Crowd, human present, face visible, three objects, many colors, high motion
+A Human which is more specifically Crowd, human present, face visible, three objects, many colors, high motion
+A Human which is more specifically Crowd, human present, face visible, three objects, many colors, high motion
+A Human which is more specifically Crowd, human present, face visible, three objects, many colors, high motion
+A Human which is more specifically Crowd, human present, face visible, three objects, many colors, high motion
+A Food  which is more specifically Drink, no human, no face visible, single object, many colors, low motion
+A Food  which is more specifically Drink, no human, no face visible, single object, many colors, low motion
+A Food  which is more specifically Drink, no human, no face visible, single object, with dominant color green, low motion
+A Food  which is more specifically Drink, no human, no face visible, single object, many colors, low motion
+A Food  which is more specifically Drink, no human, no face visible, single object, with dominant color red, low motion
+A Exercise which is more specifically Running, human present, no face visible, single object, many colors, high motion
+A Exercise which is more specifically Running, human present, face visible, single object, many colors, high motion
+A Exercise which is more specifically Running, human present, no face visible, single object, many colors, high motion
+A Exercise which is more specifically Running, human present, face visible, single object, many colors, high motion
+A Exercise which is more specifically Running, human present, face visible, single object, many colors, low motion
+A Land Animal which is more specifically Dog, no human, no face visible, single object, many colors, high motion
+A Land Animal which is more specifically Dog, no human, no face visible, single object, many colors, low motion
+A Land Animal which is more specifically Dog, no human, no face visible, single object, many colors, high motion
+A Land Animal which is more specifically Dog, no human, no face visible, single object, many colors, low motion
+A Land Animal which is more specifically Dog, no human, no face visible, single object, many colors, low motion
+A Transportation which is more specifically Hot balloon, no human, no face visible, single object, many colors, low motion
+A Transportation which is more specifically Hot balloon, no human, no face visible, three objects, many colors, low motion
+A Transportation which is more specifically Hot balloon, no human, no face visible, three objects, many colors, low motion
+A Transportation which is more specifically Hot balloon, no human, no face visible, three objects, many colors, high motion
+A Transportation which is more specifically Hot balloon, no human, no face visible, three objects, many colors, low motion
+A Water Animal which is more specifically Jellyfish, no human, no face visible, single object, with dominant color blue, low motion
+A Water Animal which is more specifically Jellyfish, no human, no face visible, three objects, many colors, low motion
+A Water Animal which is more specifically Jellyfish, no human, no face visible, single object, with dominant color white, low motion
+A Water Animal which is more specifically Jellyfish, no human, no face visible, single object, with dominant color blue, low motion
+A Water Animal which is more specifically Jellyfish, no human, no face visible, two objects, with dominant color red, low motion
+A Land Animal which is more specifically Elephant, no human, no face visible, three objects, many colors, high motion
+A Land Animal which is more specifically Elephant, no human, no face visible, single object, many colors, high motion
+A Land Animal which is more specifically Elephant, no human, no face visible, two objects, many colors, low motion
+A Land Animal which is more specifically Elephant, no human, no face visible, three objects, many colors, high motion
+A Land Animal which is more specifically Elephant, no human, no face visible, single object, many colors, high motion
+A Transportation which is more specifically Bike, human present, no face visible, single object, many colors, low motion
+A Transportation which is more specifically Bike, human present, no face visible, single object, many colors, low motion
+A Transportation which is more specifically Bike, human present, no face visible, three objects, many colors, low motion
+A Transportation which is more specifically Bike, human present, face visible, single object, many colors, high motion
+A Transportation which is more specifically Bike, human present, no face visible, single object, many colors, high motion
+A Musical which is more specifically Drum, human present, face visible, three objects, many colors, high motion
+A Musical which is more specifically Drum, human present, face visible, three objects, many colors, low motion
+A Musical which is more specifically Drum, human present, no face visible, three objects, many colors, high motion
+A Musical which is more specifically Drum, human present, face visible, three objects, many colors, high motion
+A Musical which is more specifically Drum, human present, no face visible, three objects, many colors, low motion
+A Land Animal which is more specifically Rabbit, no human, no face visible, single object, many colors, high motion
+A Land Animal which is more specifically Rabbit, no human, no face visible, single object, many colors, low motion
+A Land Animal which is more specifically Rabbit, no human, no face visible, single object, many colors, low motion
+A Land Animal which is more specifically Rabbit, no human, no face visible, single object, with dominant color gray, low motion
+A Land Animal which is more specifically Rabbit, no human, no face visible, single object, many colors, low motion
+A Food  which is more specifically Watermelon, no human, no face visible, single object, many colors, high motion
+A Food  which is more specifically Watermelon, no human, no face visible, single object, with dominant color green, high motion
+A Food  which is more specifically Watermelon, no human, no face visible, single object, with dominant color red, high motion
+A Food  which is more specifically Watermelon, no human, no face visible, single object, with dominant color red, high motion
+A Food  which is more specifically Watermelon, no human, no face visible, three objects, with dominant color green, high motion
+A Exercise which is more specifically Boxing, human present, face visible, single object, many colors, high motion
+A Exercise which is more specifically Boxing, human present, face visible, two objects, many colors, high motion
+A Exercise which is more specifically Boxing, human present, face visible, single object, many colors, high motion
+A Exercise which is more specifically Boxing, human present, face visible, single object, many colors, low motion
+A Exercise which is more specifically Boxing, human present, face visible, two objects, many colors, high motion
+A Exercise which is more specifically Skiing, human present, no face visible, single object, many colors, high motion
+A Exercise which is more specifically Skiing, human present, no face visible, single object, many colors, high motion
+A Exercise which is more specifically Skiing, human present, no face visible, single object, many colors, high motion
+A Exercise which is more specifically Skiing, human present, no face visible, single object, many colors, low motion
+A Exercise which is more specifically Skiing, human present, no face visible, single object, many colors, low motion
+A Food  which is more specifically Cake, no human, no face visible, two objects, many colors, low motion
+A Food  which is more specifically Cake, no human, no face visible, three objects, many colors, low motion
+A Food  which is more specifically Cake, no human, no face visible, single object, many colors, low motion
+A Food  which is more specifically Cake, no human, no face visible, single object, many colors, low motion
+A Food  which is more specifically Cake, no human, no face visible, single object, many colors, low motion
+A Land Animal which is more specifically Bird, no human, no face visible, single object, with dominant color yellow, high motion
+A Land Animal which is more specifically Bird, no human, no face visible, single object, many colors, high motion
+A Land Animal which is more specifically Bird, no human, no face visible, single object, many colors, low motion
+A Land Animal which is more specifically Bird, no human, no face visible, three objects, with dominant color yellow, high motion
+A Land Animal which is more specifically Bird, no human, no face visible, three objects, many colors, high motion
+A Musical which is more specifically Piano, no human, no face visible, single object, many colors, high motion
+A Musical which is more specifically Piano, human present, no face visible, single object, many colors, low motion
+A Musical which is more specifically Piano, human present, no face visible, single object, many colors, low motion
+A Musical which is more specifically Piano, human present, no face visible, single object, many colors, low motion
+A Musical which is more specifically Piano, human present, no face visible, single object, many colors, low motion
+A Natural Scene which is more specifically Beach, no human, no face visible, single object, many colors, high motion
+A Natural Scene which is more specifically Beach, human present, no face visible, single object, many colors, high motion
+A Natural Scene which is more specifically Beach, no human, no face visible, single object, many colors, high motion
+A Natural Scene which is more specifically Beach, no human, no face visible, single object, many colors, high motion
+A Natural Scene which is more specifically Beach, human present, no face visible, single object, many colors, high motion
+A Human which is more specifically Face, human present, face visible, single object, many colors, low motion
+A Human which is more specifically Face, human present, face visible, single object, many colors, low motion
+A Human which is more specifically Face, human present, face visible, single object, many colors, low motion
+A Human which is more specifically Face, human present, face visible, single object, many colors, low motion
+A Human which is more specifically Face, human present, face visible, single object, many colors, low motion
+A Plant which is more specifically Flower, no human, no face visible, three objects, with dominant color yellow, high motion
+A Plant which is more specifically Flower, no human, no face visible, three objects, with dominant color white, low motion
+A Plant which is more specifically Flower, no human, no face visible, three objects, with dominant color yellow, high motion
+A Plant which is more specifically Flower, no human, no face visible, single object, with dominant color yellow, high motion
+A Plant which is more specifically Flower, no human, no face visible, single object, with dominant color yellow, low motion
+A Transportation which is more specifically Bike, human present, face visible, single object, many colors, high motion
+A Transportation which is more specifically Bike, human present, no face visible, single object, many colors, high motion
+A Transportation which is more specifically Bike, human present, no face visible, three objects, many colors, high motion
+A Transportation which is more specifically Bike, human present, no face visible, single object, many colors, low motion
+A Transportation which is more specifically Bike, human present, face visible, two objects, many colors, high motion
+A Water Animal which is more specifically Fish/Coral, no human, no face visible, three objects, many colors, high motion
+A Water Animal which is more specifically Fish/Coral, no human, no face visible, three objects, many colors, high motion
+A Water Animal which is more specifically Fish/Coral, no human, no face visible, three objects, many colors, high motion
+A Water Animal which is more specifically Fish/Coral, no human, no face visible, three objects, many colors, high motion
+A Water Animal which is more specifically Fish/Coral, no human, no face visible, three objects, many colors, high motion
+A Exercise which is more specifically Boxing, human present, face visible, two objects, many colors, high motion
+A Exercise which is more specifically Boxing, human present, face visible, single object, many colors, low motion
+A Exercise which is more specifically Boxing, human present, face visible, single object, many colors, low motion
+A Exercise which is more specifically Boxing, human present, face visible, two objects, many colors, high motion
+A Exercise which is more specifically Boxing, human present, face visible, single object, many colors, low motion
+A Food  which is more specifically Banana, human present, no face visible, single object, with dominant color yellow, low motion
+A Food  which is more specifically Banana, no human, no face visible, single object, with dominant color yellow, low motion
+A Food  which is more specifically Banana, no human, no face visible, single object, with dominant color yellow, low motion
+A Food  which is more specifically Banana, no human, no face visible, three objects, with dominant color yellow, high motion
+A Food  which is more specifically Banana, no human, no face visible, three objects, with dominant color yellow, low motion
+A Land Animal which is more specifically Cat, no human, no face visible, single object, many colors, low motion
+A Land Animal which is more specifically Cat, no human, no face visible, single object, many colors, low motion
+A Land Animal which is more specifically Cat, no human, no face visible, single object, many colors, low motion
+A Land Animal which is more specifically Cat, no human, no face visible, single object, many colors, low motion
+A Land Animal which is more specifically Cat, no human, no face visible, single object, many colors, low motion
+A Musical which is more specifically Guitar, human present, face visible, single object, many colors, low motion
+A Musical which is more specifically Guitar, human present, face visible, single object, many colors, low motion
+A Musical which is more specifically Guitar, human present, face visible, single object, many colors, low motion
+A Musical which is more specifically Guitar, human present, face visible, single object, many colors, high motion
+A Musical which is more specifically Guitar, human present, face visible, single object, many colors, low motion
+A Natural Scene which is more specifically Buildings, no human, no face visible, three objects, many colors, high motion
+A Natural Scene which is more specifically Buildings, no human, no face visible, three objects, many colors, low motion
+A Natural Scene which is more specifically Buildings, no human, no face visible, three objects, many colors, high motion
+A Natural Scene which is more specifically Buildings, no human, no face visible, three objects, many colors, high motion
+A Natural Scene which is more specifically Buildings, no human, no face visible, three objects, many colors, low motion
+A Human which is more specifically Couple, human present, face visible, two objects, many colors, low motion
+A Human which is more specifically Couple, human present, face visible, two objects, many colors, low motion
+A Human which is more specifically Couple, human present, face visible, two objects, many colors, high motion
+A Human which is more specifically Couple, human present, face visible, two objects, many colors, high motion
+A Human which is more specifically Couple, human present, face visible, two objects, many colors, low motion
+A Plant which is more specifically Mushroom, no human, no face visible, single object, with dominant color red, low motion
+A Plant which is more specifically Mushroom, no human, no face visible, single object, many colors, low motion
+A Plant which is more specifically Mushroom, no human, no face visible, three objects, many colors, high motion
+A Plant which is more specifically Mushroom, no human, no face visible, single object, many colors, high motion
+A Plant which is more specifically Mushroom, no human, no face visible, three objects, with dominant color yellow, low motion
+A Transportation which is more specifically Car, no human, no face visible, single object, many colors, high motion
+A Transportation which is more specifically Car, no human, no face visible, single object, with dominant color blue, high motion
+A Transportation which is more specifically Car, no human, no face visible, single object, with dominant color white, high motion
+A Transportation which is more specifically Car, no human, no face visible, three objects, many colors, high motion
+A Transportation which is more specifically Car, no human, no face visible, single object, with dominant color blue, high motion
+A Water Animal which is more specifically Jellyfish, no human, no face visible, single object, with dominant color blue, high motion
+A Water Animal which is more specifically Jellyfish, no human, no face visible, three objects, many colors, high motion
+A Water Animal which is more specifically Jellyfish, no human, no face visible, single object, many colors, low motion
+A Water Animal which is more specifically Jellyfish, no human, no face visible, single object, many colors, low motion
+A Water Animal which is more specifically Jellyfish, no human, no face visible, single object, with dominant color blue, low motion
+A Exercise which is more specifically Dancing, human present, face visible, single object, many colors, low motion
+A Exercise which is more specifically Dancing, human present, face visible, single object, many colors, low motion
+A Exercise which is more specifically Dancing, human present, face visible, single object, many colors, low motion
+A Exercise which is more specifically Dancing, human present, face visible, single object, many colors, low motion
+A Exercise which is more specifically Dancing, human present, face visible, single object, many colors, low motion
+A Food  which is more specifically Drink, no human, no face visible, single object, with dominant color yellow, low motion
+A Food  which is more specifically Drink, no human, no face visible, single object, with dominant color green, low motion
+A Food  which is more specifically Drink, no human, no face visible, two objects, with dominant color red, low motion
+A Food  which is more specifically Drink, no human, no face visible, single object, with dominant color yellow, low motion
+A Food  which is more specifically Drink, no human, no face visible, single object, with dominant color white, low motion
+A Land Animal which is more specifically Dog, no human, no face visible, single object, many colors, low motion
+A Land Animal which is more specifically Dog, no human, no face visible, single object, many colors, high motion
+A Land Animal which is more specifically Dog, no human, no face visible, single object, many colors, high motion
+A Land Animal which is more specifically Dog, no human, no face visible, single object, many colors, low motion
+A Land Animal which is more specifically Dog, no human, no face visible, two objects, many colors, high motion
+A Musical which is more specifically Drum, no human, no face visible, three objects, many colors, low motion
+A Musical which is more specifically Drum, human present, no face visible, three objects, many colors, high motion
+A Musical which is more specifically Drum, human present, face visible, three objects, many colors, low motion
+A Musical which is more specifically Drum, human present, no face visible, three objects, many colors, low motion
+A Musical which is more specifically Drum, human present, no face visible, three objects, many colors, low motion
+A Natural Scene which is more specifically Fireworks, no human, no face visible, three objects, with dominant color gray, low motion
+A Natural Scene which is more specifically Fireworks, no human, no face visible, three objects, with dominant color gray, low motion
+A Natural Scene which is more specifically Fireworks, no human, no face visible, three objects, with dominant color gray, low motion
+A Natural Scene which is more specifically Fireworks, no human, no face visible, three objects, with dominant color gray, low motion
+A Natural Scene which is more specifically Fireworks, no human, no face visible, three objects, with dominant color gray, high motion
+A Human which is more specifically Crowd, human present, face visible, three objects, many colors, high motion
+A Human which is more specifically Crowd, human present, face visible, three objects, many colors, high motion
+A Human which is more specifically Crowd, human present, face visible, three objects, many colors, high motion
+A Human which is more specifically Crowd, human present, no face visible, three objects, many colors, high motion
+A Human which is more specifically Crowd, human present, face visible, three objects, many colors, high motion
+A Plant which is more specifically Tree, no human, no face visible, three objects, with dominant color green, high motion
+A Plant which is more specifically Tree, no human, no face visible, three objects, with dominant color green, high motion
+A Plant which is more specifically Tree, no human, no face visible, three objects, with dominant color green, low motion
+A Plant which is more specifically Tree, no human, no face visible, three objects, with dominant color green, high motion
+A Plant which is more specifically Tree, no human, no face visible, three objects, with dominant color green, low motion
+A Transportation which is more specifically Hot balloon, no human, no face visible, three objects, many colors, low motion
+A Transportation which is more specifically Hot balloon, no human, no face visible, single object, many colors, low motion
+A Transportation which is more specifically Hot balloon, no human, no face visible, single object, many colors, low motion
+A Transportation which is more specifically Hot balloon, no human, no face visible, three objects, many colors, low motion
+A Transportation which is more specifically Hot balloon, no human, no face visible, three objects, many colors, low motion
+A Water Animal which is more specifically Shark-like, no human, no face visible, single object, with dominant color blue, low motion
+A Water Animal which is more specifically Shark-like, no human, no face visible, single object, with dominant color blue, low motion
+A Water Animal which is more specifically Shark-like, no human, no face visible, single object, with dominant color blue, high motion
+A Water Animal which is more specifically Shark-like, no human, no face visible, single object, with dominant color blue, high motion
+A Water Animal which is more specifically Shark-like, no human, no face visible, single object, with dominant color blue, low motion
+A Exercise which is more specifically Running, human present, face visible, single object, many colors, low motion
+A Exercise which is more specifically Running, human present, face visible, two objects, many colors, high motion
+A Exercise which is more specifically Running, human present, face visible, two objects, many colors, low motion
+A Exercise which is more specifically Running, human present, face visible, single object, many colors, high motion
+A Exercise which is more specifically Running, human present, face visible, single object, many colors, low motion
+A Food  which is more specifically Pizza, no human, no face visible, single object, many colors, high motion
+A Food  which is more specifically Pizza, no human, no face visible, single object, many colors, low motion
+A Food  which is more specifically Pizza, no human, no face visible, single object, many colors, high motion
+A Food  which is more specifically Pizza, no human, no face visible, single object, many colors, high motion
+A Food  which is more specifically Pizza, no human, no face visible, single object, many colors, high motion
+A Land Animal which is more specifically Elephant, no human, no face visible, single object, many colors, low motion
+A Land Animal which is more specifically Elephant, no human, no face visible, three objects, many colors, high motion
+A Land Animal which is more specifically Elephant, no human, no face visible, three objects, many colors, high motion
+A Land Animal which is more specifically Elephant, no human, no face visible, single object, many colors, high motion
+A Land Animal which is more specifically Elephant, no human, no face visible, three objects, many colors, high motion
+A Natural Scene which is more specifically Mountain, no human, no face visible, three objects, with dominant color white, high motion
+A Natural Scene which is more specifically Mountain, no human, no face visible, three objects, many colors, low motion
+A Natural Scene which is more specifically Mountain, no human, no face visible, three objects, with dominant color green, low motion
+A Natural Scene which is more specifically Mountain, no human, no face visible, three objects, many colors, high motion
+A Natural Scene which is more specifically Mountain, no human, no face visible, three objects, many colors, low motion
+A Transportation which is more specifically Airplane, no human, no face visible, single object, many colors, low motion
+A Transportation which is more specifically Airplane, no human, no face visible, single object, many colors, high motion
+A Transportation which is more specifically Airplane, no human, no face visible, single object, many colors, high motion
+A Transportation which is more specifically Airplane, no human, no face visible, single object, many colors, low motion
+A Transportation which is more specifically Airplane, no human, no face visible, single object, many colors, low motion
+A Water Animal which is more specifically Turtle, no human, no face visible, two objects, many colors, high motion
+A Water Animal which is more specifically Turtle, no human, no face visible, single object, with dominant color blue, high motion
+A Water Animal which is more specifically Turtle, no human, no face visible, single object, with dominant color blue, high motion
+A Water Animal which is more specifically Turtle, no human, no face visible, single object, many colors, high motion
+A Water Animal which is more specifically Turtle, no human, no face visible, single object, many colors, high motion
+A Food  which is more specifically Watermelon, no human, no face visible, single object, with dominant color green, low motion
+A Food  which is more specifically Watermelon, no human, no face visible, single object, many colors, low motion
+A Food  which is more specifically Watermelon, human present, no face visible, single object, with dominant color green, high motion
+A Food  which is more specifically Watermelon, no human, no face visible, single object, with dominant color green, low motion
+A Food  which is more specifically Watermelon, human present, no face visible, three objects, with dominant color green, high motion
+A Land Animal which is more specifically Horse, no human, no face visible, three objects, many colors, high motion
+A Land Animal which is more specifically Horse, no human, no face visible, three objects, many colors, low motion
+A Land Animal which is more specifically Horse, no human, no face visible, single object, many colors, high motion
+A Land Animal which is more specifically Horse, no human, no face visible, single object, many colors, low motion
+A Land Animal which is more specifically Horse, no human, no face visible, single object, many colors, high motion
+A Natural Scene which is more specifically Road, no human, no face visible, single object, many colors, low motion
+A Natural Scene which is more specifically Road, no human, no face visible, single object, many colors, high motion
+A Natural Scene which is more specifically Road, no human, no face visible, single object, many colors, high motion
+A Natural Scene which is more specifically Road, no human, no face visible, single object, many colors, high motion
+A Natural Scene which is more specifically Road, no human, no face visible, single object, many colors, high motion
+A Transportation which is more specifically Ship, no human, no face visible, single object, many colors, low motion
+A Transportation which is more specifically Ship, no human, no face visible, single object, many colors, high motion
+A Transportation which is more specifically Ship, no human, no face visible, single object, many colors, high motion
+A Transportation which is more specifically Ship, no human, no face visible, single object, many colors, low motion
+A Transportation which is more specifically Ship, no human, no face visible, single object, many colors, high motion
+A Land Animal which is more specifically Panda, no human, no face visible, single object, many colors, low motion
+A Land Animal which is more specifically Panda, no human, no face visible, single object, many colors, low motion
+A Land Animal which is more specifically Panda, no human, no face visible, single object, many colors, high motion
+A Land Animal which is more specifically Panda, no human, no face visible, three objects, many colors, high motion
+A Land Animal which is more specifically Panda, no human, no face visible, single object, many colors, high motion
+A Natural Scene which is more specifically Water, no human, no face visible, single object, many colors, low motion
+A Natural Scene which is more specifically Water, no human, no face visible, single object, many colors, low motion
+A Natural Scene which is more specifically Water, no human, no face visible, single object, many colors, low motion
+A Natural Scene which is more specifically Water, no human, no face visible, single object, many colors, high motion
+A Natural Scene which is more specifically Water, no human, no face visible, single object, many colors, low motion
+A Land Animal which is more specifically Rabbit, no human, no face visible, single object, many colors, low motion
+A Land Animal which is more specifically Rabbit, no human, no face visible, two objects, many colors, high motion
+A Land Animal which is more specifically Rabbit, no human, no face visible, single object, many colors, low motion
+A Land Animal which is more specifically Rabbit, no human, no face visible, single object, with dominant color white, high motion
+A Land Animal which is more specifically Rabbit, no human, no face visible, single object, many colors, high motion
+A Food  which is more specifically Cake, no human, no face visible, single object, with dominant color white, low motion
+A Food  which is more specifically Cake, no human, no face visible, single object, many colors, low motion
+A Food  which is more specifically Cake, no human, no face visible, single object, many colors, low motion
+A Food  which is more specifically Cake, no human, no face visible, single object, many colors, low motion
+A Food  which is more specifically Cake, no human, no face visible, single object, many colors, low motion
+A Exercise which is more specifically Dancing, human present, face visible, single object, many colors, low motion
+A Exercise which is more specifically Dancing, human present, face visible, single object, many colors, low motion
+A Exercise which is more specifically Dancing, human present, face visible, single object, many colors, high motion
+A Exercise which is more specifically Dancing, human present, face visible, single object, many colors, high motion
+A Exercise which is more specifically Dancing, human present, face visible, single object, many colors, low motion
+A Land Animal which is more specifically Cat, no human, no face visible, single object, with dominant color yellow, low motion
+A Land Animal which is more specifically Cat, no human, no face visible, single object, many colors, high motion
+A Land Animal which is more specifically Cat, no human, no face visible, single object, many colors, low motion
+A Land Animal which is more specifically Cat, no human, no face visible, single object, many colors, high motion
+A Land Animal which is more specifically Cat, no human, no face visible, single object, many colors, high motion
+A Natural Scene which is more specifically Beach, no human, no face visible, single object, many colors, high motion
+A Natural Scene which is more specifically Beach, no human, no face visible, single object, many colors, low motion
+A Natural Scene which is more specifically Beach, no human, no face visible, single object, many colors, high motion
+A Natural Scene which is more specifically Beach, no human, no face visible, single object, many colors, high motion
+A Natural Scene which is more specifically Beach, no human, no face visible, single object, many colors, high motion
+A Musical which is more specifically Guitar, human present, face visible, single object, many colors, low motion
+A Musical which is more specifically Guitar, human present, face visible, single object, many colors, low motion
+A Musical which is more specifically Guitar, human present, face visible, single object, many colors, low motion
+A Musical which is more specifically Guitar, human present, face visible, single object, many colors, low motion
+A Musical which is more specifically Guitar, human present, face visible, single object, many colors, low motion
+A Transportation which is more specifically Airplane, no human, no face visible, single object, with dominant color white, low motion
+A Transportation which is more specifically Airplane, no human, no face visible, single object, many colors, low motion
+A Transportation which is more specifically Airplane, no human, no face visible, single object, many colors, high motion
+A Transportation which is more specifically Airplane, no human, no face visible, single object, many colors, high motion
+A Transportation which is more specifically Airplane, no human, no face visible, single object, many colors, high motion
+A Natural Scene which is more specifically Mountain, no human, no face visible, single object, many colors, high motion
+A Natural Scene which is more specifically Mountain, no human, no face visible, three objects, many colors, low motion
+A Natural Scene which is more specifically Mountain, no human, no face visible, single object, many colors, high motion
+A Natural Scene which is more specifically Mountain, no human, no face visible, three objects, many colors, low motion
+A Natural Scene which is more specifically Mountain, no human, no face visible, three objects, many colors, high motion
+A Water Animal which is more specifically Shark-like, no human, no face visible, single object, with dominant color blue, low motion
+A Water Animal which is more specifically Shark-like, no human, no face visible, single object, with dominant color blue, low motion
+A Water Animal which is more specifically Shark-like, no human, no face visible, single object, with dominant color blue, low motion
+A Water Animal which is more specifically Shark-like, no human, no face visible, single object, with dominant color blue, low motion
+A Water Animal which is more specifically Shark-like, no human, no face visible, single object, with dominant color blue, low motion
+A Water Animal which is more specifically Fish/Coral, no human, no face visible, three objects, many colors, high motion
+A Water Animal which is more specifically Fish/Coral, no human, no face visible, three objects, many colors, high motion
+A Water Animal which is more specifically Fish/Coral, no human, no face visible, single object, many colors, low motion
+A Water Animal which is more specifically Fish/Coral, no human, no face visible, single object, many colors, high motion
+A Water Animal which is more specifically Fish/Coral, no human, no face visible, single object, many colors, high motion
+A Musical which is more specifically Piano, human present, no face visible, single object, many colors, low motion
+A Musical which is more specifically Piano, human present, no face visible, single object, many colors, low motion
+A Musical which is more specifically Piano, human present, no face visible, single object, many colors, low motion
+A Musical which is more specifically Piano, human present, no face visible, single object, many colors, high motion
+A Musical which is more specifically Piano, human present, no face visible, single object, many colors, low motion
+A Natural Scene which is more specifically Fireworks, no human, no face visible, three objects, many colors, low motion
+A Natural Scene which is more specifically Fireworks, no human, no face visible, three objects, many colors, high motion
+A Natural Scene which is more specifically Fireworks, no human, no face visible, three objects, many colors, high motion
+A Natural Scene which is more specifically Fireworks, no human, no face visible, three objects, many colors, low motion
+A Natural Scene which is more specifically Fireworks, no human, no face visible, three objects, many colors, low motion
+A Food  which is more specifically Pizza, no human, no face visible, single object, many colors, high motion
+A Food  which is more specifically Pizza, no human, no face visible, single object, many colors, high motion
+A Food  which is more specifically Pizza, no human, no face visible, single object, many colors, low motion
+A Food  which is more specifically Pizza, no human, no face visible, single object, many colors, low motion
+A Food  which is more specifically Pizza, no human, no face visible, single object, many colors, high motion
+A Natural Scene which is more specifically Buildings, no human, no face visible, three objects, with dominant color gray, high motion
+A Natural Scene which is more specifically Buildings, no human, no face visible, three objects, with dominant color gray, high motion
+A Natural Scene which is more specifically Buildings, no human, no face visible, three objects, many colors, high motion
+A Natural Scene which is more specifically Buildings, no human, no face visible, three objects, many colors, high motion
+A Natural Scene which is more specifically Buildings, no human, no face visible, three objects, many colors, high motion
+A Exercise which is more specifically Running, human present, face visible, two objects, many colors, high motion
+A Exercise which is more specifically Running, human present, face visible, single object, many colors, high motion
+A Exercise which is more specifically Running, human present, no face visible, single object, many colors, high motion
+A Exercise which is more specifically Running, human present, face visible, single object, many colors, high motion
+A Exercise which is more specifically Running, human present, face visible, single object, many colors, low motion
+A Land Animal which is more specifically Dog, no human, no face visible, single object, many colors, high motion
+A Land Animal which is more specifically Dog, no human, no face visible, single object, many colors, low motion
+A Land Animal which is more specifically Dog, no human, no face visible, two objects, many colors, low motion
+A Land Animal which is more specifically Dog, no human, no face visible, single object, with dominant color gray, low motion
+A Land Animal which is more specifically Dog, no human, no face visible, single object, with dominant color gray, low motion
+A Exercise which is more specifically Boxing, human present, face visible, single object, many colors, low motion
+A Exercise which is more specifically Boxing, human present, face visible, single object, many colors, high motion
+A Exercise which is more specifically Boxing, human present, face visible, two objects, many colors, high motion
+A Exercise which is more specifically Boxing, human present, face visible, single object, many colors, low motion
+A Exercise which is more specifically Boxing, human present, face visible, single object, many colors, low motion
+A Natural Scene which is more specifically Road, no human, no face visible, single object, many colors, low motion
+A Natural Scene which is more specifically Road, no human, no face visible, single object, many colors, low motion
+A Natural Scene which is more specifically Road, no human, no face visible, single object, many colors, low motion
+A Natural Scene which is more specifically Road, no human, no face visible, single object, many colors, low motion
+A Natural Scene which is more specifically Road, no human, no face visible, single object, many colors, high motion
+A Transportation which is more specifically Ship, no human, no face visible, three objects, with dominant color white, high motion
+A Transportation which is more specifically Ship, no human, no face visible, three objects, with dominant color white, low motion
+A Transportation which is more specifically Ship, no human, no face visible, single object, with dominant color white, low motion
+A Transportation which is more specifically Ship, no human, no face visible, single object, with dominant color white, low motion
+A Transportation which is more specifically Ship, no human, no face visible, single object, with dominant color white, low motion
+A Land Animal which is more specifically Elephant, no human, no face visible, two objects, many colors, high motion
+A Land Animal which is more specifically Elephant, no human, no face visible, two objects, many colors, high motion
+A Land Animal which is more specifically Elephant, no human, no face visible, single object, many colors, low motion
+A Land Animal which is more specifically Elephant, no human, no face visible, single object, many colors, high motion
+A Land Animal which is more specifically Elephant, no human, no face visible, two objects, many colors, high motion
+A Transportation which is more specifically Bike, human present, no face visible, two objects, many colors, high motion
+A Transportation which is more specifically Bike, human present, no face visible, single object, many colors, high motion
+A Transportation which is more specifically Bike, human present, no face visible, single object, many colors, high motion
+A Transportation which is more specifically Bike, human present, no face visible, single object, many colors, high motion
+A Transportation which is more specifically Bike, human present, no face visible, two objects, many colors, high motion
+A Natural Scene which is more specifically Beach, no human, no face visible, single object, many colors, low motion
+A Natural Scene which is more specifically Water, no human, no face visible, single object, many colors, high motion
+A Natural Scene which is more specifically Water, no human, no face visible, single object, many colors, high motion
+A Natural Scene which is more specifically Water, no human, no face visible, single object, many colors, high motion
+A Natural Scene which is more specifically Water, no human, no face visible, single object, many colors, high motion
+A Land Animal which is more specifically Rabbit, no human, no face visible, single object, many colors, low motion
+A Land Animal which is more specifically Rabbit, no human, no face visible, single object, with dominant color yellow, low motion
+A Land Animal which is more specifically Rabbit, no human, no face visible, single object, many colors, low motion
+A Land Animal which is more specifically Rabbit, no human, no face visible, single object, many colors, high motion
+A Land Animal which is more specifically Rabbit, no human, no face visible, single object, with dominant color white, low motion
+A Plant which is more specifically Tree, no human, no face visible, three objects, with dominant color green, high motion
+A Plant which is more specifically Tree, no human, no face visible, single object, with dominant color green, high motion
+A Plant which is more specifically Tree, no human, no face visible, three objects, with dominant color green, high motion
+A Plant which is more specifically Tree, no human, no face visible, three objects, many colors, high motion
+A Plant which is more specifically Tree, no human, no face visible, three objects, with dominant color green, high motion
+A Transportation which is more specifically Car, no human, no face visible, single object, with dominant color white, high motion
+A Transportation which is more specifically Car, no human, no face visible, single object, many colors, high motion
+A Transportation which is more specifically Car, no human, no face visible, single object, many colors, low motion
+A Transportation which is more specifically Car, no human, no face visible, single object, with dominant color blue, high motion
+A Transportation which is more specifically Car, no human, no face visible, single object, with dominant color gray, high motion
+A Water Animal which is more specifically Jellyfish, no human, no face visible, single object, with dominant color blue, low motion
+A Water Animal which is more specifically Jellyfish, no human, no face visible, single object, with dominant color red, low motion
+A Water Animal which is more specifically Jellyfish, no human, no face visible, single object, many colors, low motion
+A Water Animal which is more specifically Jellyfish, no human, no face visible, three objects, many colors, low motion
+A Water Animal which is more specifically Jellyfish, no human, no face visible, single object, with dominant color red, low motion
+A Plant which is more specifically Flower, no human, no face visible, single object, with dominant color yellow, low motion
+A Plant which is more specifically Flower, no human, no face visible, single object, with dominant color yellow, high motion
+A Plant which is more specifically Flower, no human, no face visible, three objects, many colors, high motion
+A Plant which is more specifically Flower, no human, no face visible, three objects, with dominant color red, high motion
+A Plant which is more specifically Flower, no human, no face visible, single object, with dominant color red, low motion
+A Human which is more specifically Face, human present, face visible, single object, many colors, low motion
+A Human which is more specifically Face, human present, face visible, single object, many colors, low motion
+A Human which is more specifically Face, human present, face visible, single object, many colors, low motion
+A Human which is more specifically Face, human present, face visible, single object, many colors, low motion
+A Human which is more specifically Face, human present, face visible, single object, many colors, low motion
+A Food  which is more specifically Drink, no human, no face visible, single object, with dominant color yellow, low motion
+A Food  which is more specifically Drink, no human, no face visible, single object, many colors, low motion
+A Food  which is more specifically Drink, no human, no face visible, single object, many colors, low motion
+A Food  which is more specifically Drink, no human, no face visible, single object, many colors, high motion
+A Food  which is more specifically Drink, no human, no face visible, single object, with dominant color blue, low motion
+A Land Animal which is more specifically Panda, no human, no face visible, single object, many colors, low motion
+A Land Animal which is more specifically Panda, no human, no face visible, single object, many colors, low motion
+A Land Animal which is more specifically Panda, no human, no face visible, single object, many colors, high motion
+A Land Animal which is more specifically Panda, no human, no face visible, single object, many colors, high motion
+A Land Animal which is more specifically Panda, no human, no face visible, single object, many colors, high motion
+A Food  which is more specifically Banana, no human, no face visible, three objects, with dominant color yellow, high motion
+A Food  which is more specifically Banana, no human, no face visible, single object, with dominant color yellow, low motion
+A Food  which is more specifically Banana, no human, no face visible, three objects, with dominant color yellow, low motion
+A Food  which is more specifically Banana, no human, no face visible, single object, many colors, low motion
+A Food  which is more specifically Banana, no human, no face visible, single object, with dominant color yellow, low motion
+A Food  which is more specifically Watermelon, no human, no face visible, single object, with dominant color green, high motion
+A Food  which is more specifically Watermelon, no human, no face visible, single object, with dominant color red, low motion
+A Food  which is more specifically Watermelon, no human, no face visible, single object, with dominant color red, low motion
+A Food  which is more specifically Watermelon, no human, no face visible, single object, with dominant color red, high motion
+A Food  which is more specifically Watermelon, human present, no face visible, three objects, many colors, low motion
+A Land Animal which is more specifically Horse, no human, no face visible, two objects, many colors, high motion
+A Land Animal which is more specifically Horse, no human, no face visible, three objects, many colors, high motion
+A Land Animal which is more specifically Horse, no human, no face visible, three objects, many colors, high motion
+A Land Animal which is more specifically Horse, no human, no face visible, three objects, many colors, low motion
+A Land Animal which is more specifically Horse, no human, no face visible, three objects, many colors, low motion
+A Plant which is more specifically Mushroom, no human, no face visible, single object, many colors, low motion
+A Plant which is more specifically Mushroom, no human, no face visible, single object, many colors, high motion
+A Plant which is more specifically Mushroom, no human, no face visible, three objects, many colors, high motion
+A Plant which is more specifically Mushroom, no human, no face visible, three objects, many colors, low motion
+A Plant which is more specifically Mushroom, no human, no face visible, single object, many colors, low motion
+A Exercise which is more specifically Skiing, human present, no face visible, single object, many colors, low motion
+A Exercise which is more specifically Skiing, human present, no face visible, single object, with dominant color white, high motion
+A Exercise which is more specifically Skiing, human present, no face visible, three objects, with dominant color white, low motion
+A Exercise which is more specifically Skiing, human present, face visible, single object, with dominant color white, low motion
+A Exercise which is more specifically Skiing, human present, no face visible, single object, with dominant color white, low motion
+A Human which is more specifically Crowd, human present, face visible, three objects, many colors, high motion
+A Human which is more specifically Crowd, human present, face visible, three objects, many colors, high motion
+A Human which is more specifically Crowd, human present, face visible, three objects, many colors, high motion
+A Human which is more specifically Crowd, human present, face visible, three objects, many colors, high motion
+A Human which is more specifically Crowd, human present, face visible, three objects, many colors, high motion
+A Human which is more specifically Couple, human present, face visible, two objects, many colors, high motion
+A Human which is more specifically Couple, human present, face visible, two objects, many colors, low motion
+A Human which is more specifically Couple, human present, face visible, two objects, many colors, low motion
+A Human which is more specifically Couple, human present, face visible, two objects, many colors, high motion
+A Human which is more specifically Couple, human present, face visible, two objects, many colors, low motion
+A Land Animal which is more specifically Bird, no human, no face visible, two objects, many colors, low motion
+A Land Animal which is more specifically Bird, no human, no face visible, single object, many colors, low motion
+A Land Animal which is more specifically Bird, no human, no face visible, single object, with dominant color blue, low motion
+A Land Animal which is more specifically Bird, no human, no face visible, single object, with dominant color green, high motion
+A Land Animal which is more specifically Bird, no human, no face visible, single object, many colors, high motion
+A Water Animal which is more specifically Turtle, no human, no face visible, single object, with dominant color blue, high motion
+A Water Animal which is more specifically Turtle, no human, no face visible, single object, many colors, high motion
+A Water Animal which is more specifically Turtle, no human, no face visible, single object, many colors, low motion
+A Water Animal which is more specifically Turtle, no human, no face visible, single object, many colors, low motion
+A Water Animal which is more specifically Turtle, no human, no face visible, single object, many colors, high motion
+A Musical which is more specifically Drum, human present, face visible, three objects, many colors, low motion
+A Musical which is more specifically Drum, human present, face visible, three objects, many colors, low motion
+A Musical which is more specifically Drum, human present, face visible, three objects, many colors, low motion
+A Musical which is more specifically Drum, human present, face visible, three objects, many colors, low motion
+A Musical which is more specifically Drum, human present, no face visible, three objects, many colors, high motion
+A Transportation which is more specifically Hot balloon, no human, no face visible, single object, many colors, low motion
+A Transportation which is more specifically Hot balloon, human present, no face visible, single object, many colors, high motion
+A Transportation which is more specifically Hot balloon, no human, no face visible, three objects, many colors, low motion
+A Transportation which is more specifically Hot balloon, no human, no face visible, two objects, many colors, low motion
+A Transportation which is more specifically Hot balloon, no human, no face visible, three objects, many colors, low motion
+A Transportation which is more specifically Hot balloon, no human, no face visible, three objects, many colors, low motion
+A Transportation which is more specifically Hot balloon, no human, no face visible, single object, many colors, low motion
+A Transportation which is more specifically Hot balloon, no human, no face visible, single object, many colors, low motion
+A Transportation which is more specifically Hot balloon, no human, no face visible, three objects, many colors, low motion
+A Transportation which is more specifically Hot balloon, no human, no face visible, single object, many colors, low motion
+A Musical which is more specifically Guitar, human present, face visible, single object, many colors, high motion
+A Musical which is more specifically Guitar, human present, face visible, single object, many colors, low motion
+A Musical which is more specifically Guitar, human present, face visible, single object, many colors, high motion
+A Musical which is more specifically Guitar, human present, face visible, single object, many colors, low motion
+A Musical which is more specifically Guitar, human present, face visible, single object, many colors, low motion
+A Transportation which is more specifically Ship, no human, no face visible, single object, many colors, high motion
+A Transportation which is more specifically Ship, no human, no face visible, single object, many colors, low motion
+A Transportation which is more specifically Ship, no human, no face visible, single object, many colors, high motion
+A Transportation which is more specifically Ship, no human, no face visible, single object, many colors, high motion
+A Transportation which is more specifically Ship, no human, no face visible, single object, many colors, low motion
+A Water Animal which is more specifically Shark-like, no human, no face visible, single object, with dominant color blue, high motion
+A Water Animal which is more specifically Shark-like, no human, no face visible, two objects, with dominant color blue, low motion
+A Water Animal which is more specifically Shark-like, no human, no face visible, single object, with dominant color blue, high motion
+A Water Animal which is more specifically Shark-like, no human, no face visible, single object, with dominant color blue, low motion
+A Water Animal which is more specifically Shark-like, no human, no face visible, single object, with dominant color blue, low motion
+A Food  which is more specifically Banana, no human, no face visible, single object, with dominant color yellow, low motion
+A Food  which is more specifically Banana, no human, no face visible, single object, with dominant color yellow, low motion
+A Food  which is more specifically Banana, no human, no face visible, single object, with dominant color yellow, low motion
+A Food  which is more specifically Banana, no human, no face visible, three objects, with dominant color yellow, low motion
+A Food  which is more specifically Banana, no human, no face visible, three objects, with dominant color yellow, low motion
+A Land Animal which is more specifically Bird, no human, no face visible, three objects, many colors, high motion
+A Land Animal which is more specifically Bird, no human, no face visible, two objects, many colors, high motion
+A Land Animal which is more specifically Bird, no human, no face visible, three objects, many colors, low motion
+A Land Animal which is more specifically Bird, no human, no face visible, single object, many colors, low motion
+A Land Animal which is more specifically Bird, no human, no face visible, single object, many colors, high motion
+A Land Animal which is more specifically Cat, no human, no face visible, single object, with dominant color yellow, low motion
+A Land Animal which is more specifically Cat, no human, no face visible, single object, with dominant color gray, low motion
+A Land Animal which is more specifically Cat, no human, no face visible, single object, many colors, high motion
+A Land Animal which is more specifically Cat, no human, no face visible, single object, many colors, low motion
+A Land Animal which is more specifically Cat, no human, no face visible, single object, many colors, high motion
+A Transportation which is more specifically Car, no human, no face visible, single object, with dominant color white, low motion
+A Transportation which is more specifically Car, no human, no face visible, single object, with dominant color gray, low motion
+A Transportation which is more specifically Car, no human, no face visible, single object, with dominant color gray, high motion
+A Transportation which is more specifically Car, no human, no face visible, single object, with dominant color yellow, high motion
+A Transportation which is more specifically Car, no human, no face visible, single object, with dominant color white, low motion
+A Natural Scene which is more specifically Beach, no human, no face visible, single object, with dominant color blue, high motion
+A Natural Scene which is more specifically Beach, human present, no face visible, single object, many colors, high motion
+A Natural Scene which is more specifically Beach, no human, no face visible, single object, many colors, high motion
+A Natural Scene which is more specifically Beach, no human, no face visible, single object, many colors, high motion
+A Natural Scene which is more specifically Beach, no human, no face visible, single object, many colors, low motion
+A Water Animal which is more specifically Jellyfish, no human, no face visible, single object, many colors, low motion
+A Water Animal which is more specifically Jellyfish, no human, no face visible, single object, with dominant color blue, low motion
+A Water Animal which is more specifically Jellyfish, no human, no face visible, single object, with dominant color blue, low motion
+A Water Animal which is more specifically Jellyfish, no human, no face visible, single object, with dominant color white, low motion
+A Water Animal which is more specifically Jellyfish, no human, no face visible, single object, with dominant color red, high motion
+A Exercise which is more specifically Dancing, human present, face visible, single object, many colors, low motion
+A Exercise which is more specifically Dancing, human present, face visible, single object, many colors, high motion
+A Exercise which is more specifically Dancing, human present, face visible, single object, many colors, low motion
+A Exercise which is more specifically Dancing, human present, face visible, single object, many colors, low motion
+A Exercise which is more specifically Dancing, human present, face visible, single object, many colors, low motion
+A Land Animal which is more specifically Panda, no human, no face visible, single object, many colors, low motion
+A Land Animal which is more specifically Panda, no human, no face visible, single object, many colors, low motion
+A Land Animal which is more specifically Horse, no human, no face visible, single object, many colors, low motion
+A Land Animal which is more specifically Panda, no human, no face visible, single object, many colors, low motion
+A Land Animal which is more specifically Panda, no human, no face visible, single object, many colors, high motion
+A Plant which is more specifically Flower, no human, no face visible, three objects, with dominant color red, high motion
+A Plant which is more specifically Flower, no human, no face visible, single object, with dominant color red, low motion
+A Plant which is more specifically Flower, no human, no face visible, single object, with dominant color red, low motion
+A Plant which is more specifically Flower, no human, no face visible, single object, with dominant color yellow, high motion
+A Plant which is more specifically Flower, no human, no face visible, three objects, with dominant color red, low motion
+A Transportation which is more specifically Bike, human present, no face visible, single object, many colors, high motion
+A Transportation which is more specifically Bike, human present, no face visible, single object, many colors, high motion
+A Transportation which is more specifically Bike, no human, no face visible, single object, many colors, low motion
+A Transportation which is more specifically Bike, human present, face visible, single object, many colors, high motion
+A Transportation which is more specifically Bike, human present, face visible, single object, many colors, high motion
+A Human which is more specifically Couple, human present, face visible, two objects, many colors, low motion
+A Human which is more specifically Couple, human present, face visible, two objects, many colors, high motion
+A Human which is more specifically Couple, human present, face visible, two objects, many colors, high motion
+A Human which is more specifically Couple, human present, face visible, two objects, many colors, high motion
+A Human which is more specifically Couple, human present, face visible, two objects, many colors, low motion
+A Food  which is more specifically Drink, no human, no face visible, single object, many colors, low motion
+A Food  which is more specifically Drink, no human, no face visible, single object, many colors, low motion
+A Food  which is more specifically Drink, no human, no face visible, single object, with dominant color red, low motion
+A Food  which is more specifically Drink, no human, no face visible, single object, with dominant color red, low motion
+A Food  which is more specifically Drink, no human, no face visible, single object, with dominant color red, low motion
+A Land Animal which is more specifically Rabbit, no human, no face visible, single object, many colors, high motion
+A Land Animal which is more specifically Rabbit, no human, no face visible, three objects, many colors, low motion
+A Land Animal which is more specifically Rabbit, no human, no face visible, single object, with dominant color gray, low motion
+A Land Animal which is more specifically Rabbit, no human, no face visible, three objects, with dominant color gray, low motion
+A Land Animal which is more specifically Rabbit, no human, no face visible, single object, many colors, low motion
+A Exercise which is more specifically Boxing, human present, face visible, two objects, many colors, high motion
+A Exercise which is more specifically Boxing, human present, face visible, two objects, many colors, high motion
+A Exercise which is more specifically Boxing, human present, face visible, single object, many colors, low motion
+A Exercise which is more specifically Boxing, human present, face visible, single object, many colors, high motion
+A Exercise which is more specifically Boxing, human present, face visible, single object, many colors, high motion
+A Musical which is more specifically Piano, no human, no face visible, single object, many colors, low motion
+A Musical which is more specifically Piano, no human, no face visible, single object, many colors, high motion
+A Musical which is more specifically Piano, no human, no face visible, single object, many colors, high motion
+A Musical which is more specifically Piano, no human, no face visible, single object, many colors, low motion
+A Musical which is more specifically Piano, no human, no face visible, single object, many colors, low motion
+A Land Animal which is more specifically Dog, no human, no face visible, single object, many colors, low motion
+A Land Animal which is more specifically Dog, no human, no face visible, single object, with dominant color gray, low motion
+A Land Animal which is more specifically Dog, no human, no face visible, single object, with dominant color white, low motion
+A Land Animal which is more specifically Dog, no human, no face visible, single object, many colors, low motion
+A Land Animal which is more specifically Dog, no human, no face visible, single object, with dominant color white, low motion
+A Food  which is more specifically Pizza, no human, no face visible, single object, many colors, high motion
+A Food  which is more specifically Pizza, no human, no face visible, single object, many colors, high motion
+A Food  which is more specifically Pizza, no human, no face visible, single object, many colors, high motion
+A Food  which is more specifically Pizza, no human, no face visible, single object, many colors, high motion
+A Food  which is more specifically Pizza, no human, no face visible, single object, many colors, high motion
+A Natural Scene which is more specifically Water, no human, no face visible, single object, many colors, high motion
+A Natural Scene which is more specifically Water, no human, no face visible, single object, many colors, high motion
+A Natural Scene which is more specifically Water, no human, no face visible, single object, many colors, high motion
+A Natural Scene which is more specifically Water, no human, no face visible, single object, many colors, low motion
+A Natural Scene which is more specifically Water, no human, no face visible, single object, many colors, high motion
+A Exercise which is more specifically Skiing, human present, no face visible, single object, with dominant color white, low motion
+A Exercise which is more specifically Skiing, human present, no face visible, single object, with dominant color white, low motion
+A Exercise which is more specifically Skiing, human present, no face visible, single object, with dominant color white, high motion
+A Exercise which is more specifically Skiing, human present, no face visible, single object, with dominant color white, low motion
+A Exercise which is more specifically Skiing, human present, no face visible, three objects, many colors, low motion
+A Natural Scene which is more specifically Road, no human, no face visible, three objects, with dominant color green, low motion
+A Natural Scene which is more specifically Mountain, no human, no face visible, three objects, many colors, low motion
+A Natural Scene which is more specifically Mountain, no human, no face visible, three objects, many colors, low motion
+A Natural Scene which is more specifically Mountain, no human, no face visible, three objects, many colors, high motion
+A Natural Scene which is more specifically Mountain, no human, no face visible, three objects, many colors, high motion
+A Water Animal which is more specifically Fish/Coral, no human, no face visible, three objects, many colors, high motion
+A Water Animal which is more specifically Fish/Coral, no human, no face visible, single object, many colors, high motion
+A Water Animal which is more specifically Fish/Coral, no human, no face visible, three objects, many colors, high motion
+A Water Animal which is more specifically Fish/Coral, no human, no face visible, three objects, with dominant color blue, low motion
+A Water Animal which is more specifically Fish/Coral, no human, no face visible, single object, many colors, high motion
+A Land Animal which is more specifically Elephant, no human, no face visible, single object, many colors, low motion
+A Land Animal which is more specifically Elephant, no human, no face visible, three objects, many colors, low motion
+A Land Animal which is more specifically Elephant, no human, no face visible, single object, many colors, high motion
+A Land Animal which is more specifically Elephant, no human, no face visible, single object, many colors, high motion
+A Land Animal which is more specifically Elephant, no human, no face visible, single object, many colors, low motion
+A Natural Scene which is more specifically Buildings, no human, no face visible, three objects, many colors, high motion
+A Natural Scene which is more specifically Buildings, no human, no face visible, three objects, many colors, low motion
+A Natural Scene which is more specifically Buildings, no human, no face visible, three objects, many colors, high motion
+A Natural Scene which is more specifically Buildings, no human, no face visible, three objects, many colors, high motion
+A Natural Scene which is more specifically Buildings, no human, no face visible, three objects, many colors, high motion
+A Human which is more specifically Face, human present, face visible, single object, many colors, low motion
+A Human which is more specifically Face, human present, face visible, single object, many colors, low motion
+A Human which is more specifically Face, human present, face visible, single object, many colors, high motion
+A Human which is more specifically Face, human present, face visible, single object, many colors, low motion
+A Human which is more specifically Face, human present, face visible, single object, many colors, high motion
+A Plant which is more specifically Tree, no human, no face visible, three objects, with dominant color green, high motion
+A Plant which is more specifically Tree, no human, no face visible, single object, with dominant color green, high motion
+A Plant which is more specifically Tree, no human, no face visible, three objects, with dominant color green, high motion
+A Plant which is more specifically Tree, no human, no face visible, three objects, with dominant color green, high motion
+A Plant which is more specifically Tree, no human, no face visible, three objects, with dominant color green, high motion
+A Plant which is more specifically Mushroom, no human, no face visible, three objects, with dominant color white, low motion
+A Plant which is more specifically Mushroom, no human, no face visible, three objects, with dominant color white, high motion
+A Plant which is more specifically Mushroom, no human, no face visible, two objects, with dominant color yellow, low motion
+A Plant which is more specifically Mushroom, no human, no face visible, three objects, many colors, low motion
+A Plant which is more specifically Mushroom, no human, no face visible, two objects, many colors, low motion
+A Human which is more specifically Crowd, human present, face visible, three objects, many colors, high motion
+A Human which is more specifically Crowd, human present, face visible, three objects, many colors, high motion
+A Human which is more specifically Crowd, human present, face visible, three objects, many colors, high motion
+A Human which is more specifically Crowd, human present, face visible, three objects, many colors, high motion
+A Human which is more specifically Crowd, human present, face visible, three objects, many colors, high motion
+A Land Animal which is more specifically Horse, no human, no face visible, single object, many colors, high motion
+A Land Animal which is more specifically Horse, no human, no face visible, three objects, many colors, low motion
+A Land Animal which is more specifically Horse, no human, no face visible, single object, with dominant color white, high motion
+A Land Animal which is more specifically Horse, no human, no face visible, three objects, many colors, high motion
+A Land Animal which is more specifically Horse, no human, no face visible, three objects, many colors, high motion
+A Natural Scene which is more specifically Road, no human, no face visible, single object, many colors, high motion
+A Natural Scene which is more specifically Road, no human, no face visible, single object, many colors, low motion
+A Natural Scene which is more specifically Road, no human, no face visible, single object, many colors, low motion
+A Natural Scene which is more specifically Road, no human, no face visible, single object, many colors, high motion
+A Natural Scene which is more specifically Road, no human, no face visible, single object, many colors, low motion
+A Water Animal which is more specifically Turtle, no human, no face visible, single object, with dominant color blue, low motion
+A Water Animal which is more specifically Turtle, no human, no face visible, single object, many colors, high motion
+A Water Animal which is more specifically Turtle, no human, no face visible, single object, many colors, high motion
+A Water Animal which is more specifically Turtle, no human, no face visible, single object, many colors, high motion
+A Water Animal which is more specifically Turtle, no human, no face visible, single object, many colors, low motion
+A Food  which is more specifically Watermelon, no human, no face visible, single object, with dominant color green, high motion
+A Food  which is more specifically Watermelon, no human, no face visible, single object, with dominant color green, high motion
+A Food  which is more specifically Watermelon, no human, no face visible, single object, with dominant color green, high motion
+A Food  which is more specifically Watermelon, no human, no face visible, three objects, with dominant color green, high motion
+A Food  which is more specifically Watermelon, no human, no face visible, single object, with dominant color green, high motion
+A Exercise which is more specifically Running, human present, face visible, single object, many colors, high motion
+A Exercise which is more specifically Running, human present, face visible, single object, many colors, high motion
+A Exercise which is more specifically Running, human present, face visible, three objects, many colors, high motion
+A Exercise which is more specifically Running, human present, face visible, two objects, many colors, high motion
+A Exercise which is more specifically Running, human present, face visible, two objects, many colors, high motion
+A Transportation which is more specifically Airplane, no human, no face visible, single object, many colors, low motion
+A Transportation which is more specifically Airplane, no human, no face visible, single object, many colors, low motion
+A Transportation which is more specifically Airplane, no human, no face visible, single object, many colors, low motion
+A Transportation which is more specifically Airplane, no human, no face visible, single object, many colors, low motion
+A Transportation which is more specifically Airplane, no human, no face visible, single object, many colors, low motion
+A Food  which is more specifically Cake, no human, no face visible, single object, many colors, low motion
+A Food  which is more specifically Cake, no human, no face visible, single object, many colors, low motion
+A Food  which is more specifically Cake, no human, no face visible, two objects, many colors, low motion
+A Food  which is more specifically Cake, no human, no face visible, single object, many colors, low motion
+A Food  which is more specifically Cake, no human, no face visible, single object, many colors, low motion
+A Musical which is more specifically Drum, human present, face visible, three objects, many colors, high motion
+A Musical which is more specifically Drum, human present, face visible, three objects, many colors, low motion
+A Musical which is more specifically Drum, human present, no face visible, three objects, many colors, low motion
+A Musical which is more specifically Drum, human present, face visible, three objects, many colors, low motion
+A Musical which is more specifically Drum, no human, face visible, three objects, many colors, low motion
+A Natural Scene which is more specifically Fireworks, no human, no face visible, three objects, many colors, high motion
+A Natural Scene which is more specifically Fireworks, no human, no face visible, three objects, many colors, low motion
+A Natural Scene which is more specifically Fireworks, no human, no face visible, three objects, many colors, high motion
+A Natural Scene which is more specifically Fireworks, no human, no face visible, three objects, many colors, low motion
+A Natural Scene which is more specifically Fireworks, no human, no face visible, three objects, many colors, low motion

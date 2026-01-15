@@ -1,0 +1,18 @@
+# Folders
+wandb/
+results/
+Outputs/
+checkpoints*/
+Checkpoints/
+__pycache__/
+
+# Files types
+*.pt
+*.pth
+*.npy
+*.png
+
+# by jingqi
+.github/
+/data
+checkpoints/

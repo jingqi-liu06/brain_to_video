@@ -1,0 +1,84 @@
+{
+    "color": {
+        "0": "red",
+        "1": "green",
+        "2": "blue",
+        "3": "yellow",
+        "4": "white",
+        "5": "gray"
+    },
+    "color_binary": {
+        "0": "many colors",
+        "1": "dominant color"
+    },
+    "face_appearance": {
+        "0": "no face visible",
+        "1": "face visible"
+    },
+    "human_appearance": {
+        "0": "no human",
+        "1": "human present"
+    },
+    "label": {
+        "1": "Cat",
+        "2": "Dog",
+        "3": "Elephant",
+        "4": "Horse",
+        "5": "Panda",
+        "6": "Rabbit",
+        "7": "Bird",
+        "8": "Fish/Coral",
+        "9": "Jellyfish",
+        "10": "Shark-like",
+        "11": "Turtle",
+        "12": "Flower",
+        "13": "Mushroom",
+        "14": "Tree",
+        "15": "Boxing",
+        "16": "Dancing",
+        "17": "Running",
+        "18": "Skiing",
+        "19": "Face",
+        "20": "Couple",
+        "21": "Crowd",
+        "22": "Beach",
+        "23": "Buildings",
+        "24": "Mountain",
+        "25": "Road",
+        "26": "Water",
+        "27": "Fireworks",
+        "28": "Banana",
+        "29": "Cake",
+        "30": "Drink",
+        "31": "Pizza",
+        "32": "Watermelon",
+        "33": "Drum",
+        "34": "Guitar",
+        "35": "Piano",
+        "36": "Bike",
+        "37": "Car",
+        "38": "Hot balloon",
+        "39": "Airplane",
+        "40": "Ship"
+   },
+    "label_cluster": {
+        "0": "Land Animal",
+        "1": "Water Animal",
+        "2": "Plant",
+        "3": "Exercise",
+        "4": "Human",
+        "5": "Natural Scene",
+        "6": "Food ",
+        "7": "Musical",
+        "8": "Transportation" 
+    },
+    "obj_number": {
+        "1": "single object",
+        "2": "two objects",
+        "3": "three objects"
+    },
+    "optical_flow_score": {
+        "0": "low motion",
+        "1": "high motion"
+    }
+}
